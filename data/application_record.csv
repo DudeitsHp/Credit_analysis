@@ -1,0 +1,691 @@
+ID,NAME,CODE_GENDER,FLAG_OWN_CAR,OWN_CAR,MARK_CAR,FLAG_OWN_REALTY,OWN_REALITY,MARK_REALTY,CNT_CHILDREN,MARK_CHILD,AMT_INCOME_TOTAL,MARK_INCOME,NAME_INCOME_TYPE,MARK_OCCUPATION,NAME_EDUCATION_TYPE,MARK_EDUCATION,NAME_FAMILY_STATUS,MARK_FAMILY,NAME_HOUSING_TYPE,MARK_HOUSE,DAYS_BIRTH,AGE,MARK_BIRTH,DAYS_EMPLOYED,EMP_YEARS,MARK_EMPLOYED,FLAG_MOBIL,MARK_MOBILE,FLAG_WORK_PHONE,MARK_WORK_PHONE,FLAG_PHONE,MARK_PHONE,FLAG_EMAIL,MARK_EMAIL,OCCUPATION_TYPE,CNT_FAM_MEMBERS,MARK_FAM_MEM,Credit score
+5008804,Joseph,Male,Y,1,5,Y,1,5,0,10,427500,6,Working,8,Higher education,8,Civil marriage,8,Rented apartment,8,-12005,32.89041096,4,-4542,12.44383562,5,1,1,1,3,0,0,0,0,,2,10,81
+5008805,Mario,Male,Y,1,5,Y,1,5,0,10,427500,6,Working,8,Higher education,8,Civil marriage,8,Rented apartment,8,-12005,32.89041096,4,-4542,12.44383562,5,1,1,1,3,0,0,0,0,,2,10,81
+5008808,Janet,Female,N,0,0,Y,1,5,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-19110,52.35616438,2,-3051,8.35890411,5,1,1,0,0,1,3,1,3,Sales staff,1,10,67
+5008809,Christina,Female,N,0,0,Y,1,5,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-19110,52.35616438,2,-3051,8.35890411,5,1,1,0,0,1,3,1,3,Sales staff,1,10,67
+5008810,Monica,Female,N,0,0,Y,1,5,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-19110,52.35616438,2,-3051,8.35890411,5,1,1,0,0,1,3,1,3,Sales staff,1,10,67
+5008811,Krista,Female,N,0,0,Y,1,5,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-19110,52.35616438,2,-3051,8.35890411,5,1,1,0,0,1,3,1,3,Sales staff,1,10,67
+5008812,Jessica,Female,N,0,0,Y,1,5,0,10,283500,6,Pensioner,2,Higher education,8,Separated,4,House / apartment,10,-22464,61.54520548,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,1,10,61
+5008813,Carol,Female,N,0,0,Y,1,5,0,10,283500,6,Pensioner,2,Higher education,8,Separated,4,House / apartment,10,-22464,61.54520548,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,1,10,61
+5008814,Doris,Female,N,0,0,Y,1,5,0,10,283500,6,Pensioner,2,Higher education,8,Separated,4,House / apartment,10,-22464,61.54520548,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,1,10,61
+5008815,Nathaniel,Male,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-16872,46.22465753,3,-769,2.106849315,2,1,1,1,3,1,3,1,3,Accountants,2,10,87
+5112956,Brandon,Male,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-16872,46.22465753,3,-769,2.106849315,2,1,1,1,3,1,3,1,3,Accountants,2,10,87
+6153651,David,Male,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-16872,46.22465753,3,-769,2.106849315,2,1,1,1,3,1,3,1,3,Accountants,2,10,87
+5008819,Brent,Male,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-17778,48.70684932,3,-1194,3.271232877,4,1,1,0,0,0,0,0,0,Laborers,2,10,74
+5008820,Robert,Male,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-17778,48.70684932,3,-1194,3.271232877,4,1,1,0,0,0,0,0,0,Laborers,2,10,74
+5008821,Steven,Male,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-17778,48.70684932,3,-1194,3.271232877,4,1,1,0,0,0,0,0,0,Laborers,2,10,74
+5008822,Christopher,Male,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-17778,48.70684932,3,-1194,3.271232877,4,1,1,0,0,0,0,0,0,Laborers,2,10,74
+5008823,Jorge,Male,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-17778,48.70684932,3,-1194,3.271232877,4,1,1,0,0,0,0,0,0,Laborers,2,10,74
+5008824,Jacob,Male,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-17778,48.70684932,3,-1194,3.271232877,4,1,1,0,0,0,0,0,0,Laborers,2,10,74
+5008825,Morgan,Female,Y,1,5,N,0,0,0,10,130500,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-10669,29.23013699,5,-1103,3.021917808,4,1,1,0,0,0,0,0,0,Accountants,2,10,75
+5008826,Lauren,Female,Y,1,5,N,0,0,0,10,130500,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-10669,29.23013699,5,-1103,3.021917808,4,1,1,0,0,0,0,0,0,Accountants,2,10,75
+5008830,Patricia,Female,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10031,27.48219178,5,-1469,4.024657534,4,1,1,0,0,1,3,0,0,Laborers,2,10,76
+5008831,Kristen,Female,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10031,27.48219178,5,-1469,4.024657534,4,1,1,0,0,1,3,0,0,Laborers,2,10,76
+5008832,Jamie,Female,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10031,27.48219178,5,-1469,4.024657534,4,1,1,0,0,1,3,0,0,Laborers,2,10,76
+5008834,Elizabeth,Female,N,0,0,Y,1,5,1,8,112500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-10968,30.04931507,4,-1620,4.438356164,4,1,1,0,0,0,0,0,0,,2,10,62
+5008835,Connie,Female,N,0,0,Y,1,5,1,8,112500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-10968,30.04931507,4,-1620,4.438356164,4,1,1,0,0,0,0,0,0,,2,10,62
+6153712,Wendy,Female,N,0,0,Y,1,5,1,8,112500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-10968,30.04931507,4,-1620,4.438356164,4,1,1,0,0,0,0,0,0,,2,10,62
+5008836,Richard,Male,Y,1,5,Y,1,5,3,8,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12689,34.76438356,4,-1163,3.18630137,4,1,1,0,0,0,0,0,0,Laborers,5,8,73
+5008837,Matthew,Male,Y,1,5,Y,1,5,3,8,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12689,34.76438356,4,-1163,3.18630137,4,1,1,0,0,0,0,0,0,Laborers,5,8,73
+5008839,Bryan,Male,N,0,0,Y,1,5,1,8,405000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-11842,32.44383562,4,-2016,5.523287671,5,1,1,0,0,0,0,0,0,Managers,3,8,71
+5008840,Rick,Male,N,0,0,Y,1,5,1,8,405000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-11842,32.44383562,4,-2016,5.523287671,5,1,1,0,0,0,0,0,0,Managers,3,8,71
+5008841,Luke,Male,N,0,0,Y,1,5,1,8,405000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-11842,32.44383562,4,-2016,5.523287671,5,1,1,0,0,0,0,0,0,Managers,3,8,71
+5008843,Victor,Male,N,0,0,Y,1,5,1,8,405000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-11842,32.44383562,4,-2016,5.523287671,5,1,1,0,0,0,0,0,0,Managers,3,8,71
+5008844,Dillon,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+5008846,Mark,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+5008847,Scott,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+5008849,John,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+5008851,Travis,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+5008852,Eddie,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+5008853,Ethan,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+6153733,Patrick,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+6153734,Darrell,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+6153735,Kevin,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20502,56.16986301,2,-4450,12.19178082,5,1,1,0,0,1,3,0,0,Drivers,2,10,77
+5008854,Tonya,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008855,Alyssa,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008856,Hannah,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008857,Megan,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008859,Linda,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008860,Rachel,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008861,Angela,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008862,Susan,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008864,Jasmine,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008865,Melissa,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008866,Becky,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008867,Karen,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+6153736,Holly,Female,Y,1,5,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15761,43.18082192,3,-3173,8.693150685,5,1,1,0,0,0,0,0,0,Laborers,4,8,73
+5008868,Stacy,Female,N,0,0,Y,1,5,1,8,211500,6,State servant,10,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-16212,44.41643836,3,-7099,19.44931507,5,1,1,0,0,0,0,0,0,Core staff,3,8,68
+5008870,Cathy,Female,N,0,0,Y,1,5,1,8,211500,6,State servant,10,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-16212,44.41643836,3,-7099,19.44931507,5,1,1,0,0,0,0,0,0,Core staff,3,8,68
+6153737,Jason,Male,Y,1,5,Y,1,5,0,10,360000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-16670,45.67123288,3,-5364,14.69589041,5,1,1,0,0,1,3,0,0,Security staff,2,10,78
+5008873,Traci,Female,N,0,0,Y,1,5,2,8,126000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12411,34.00273973,4,-1773,4.857534247,4,1,1,0,0,0,0,1,3,Managers,4,8,73
+5008874,Abigail,Female,N,0,0,Y,1,5,2,8,126000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12411,34.00273973,4,-1773,4.857534247,4,1,1,0,0,0,0,1,3,Managers,4,8,73
+5008876,Stacie,Female,N,0,0,Y,1,5,2,8,126000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12411,34.00273973,4,-1773,4.857534247,4,1,1,0,0,0,0,1,3,Managers,4,8,73
+5008877,Catherine,Female,N,0,0,Y,1,5,2,8,126000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12411,34.00273973,4,-1773,4.857534247,4,1,1,0,0,0,0,1,3,Managers,4,8,73
+5008878,April,Female,N,0,0,Y,1,5,2,8,126000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12411,34.00273973,4,-1773,4.857534247,4,1,1,0,0,0,0,1,3,Managers,4,8,73
+5008879,Carolyn,Female,N,0,0,Y,1,5,2,8,126000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12411,34.00273973,4,-1773,4.857534247,4,1,1,0,0,0,0,1,3,Managers,4,8,73
+5008880,Jennifer,Female,N,0,0,Y,1,5,2,8,126000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12411,34.00273973,4,-1773,4.857534247,4,1,1,0,0,0,0,1,3,Managers,4,8,73
+5008881,Sierra,Female,N,0,0,Y,1,5,2,8,126000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12411,34.00273973,4,-1773,4.857534247,4,1,1,0,0,0,0,1,3,Managers,4,8,73
+5008882,Paige,Female,N,0,0,Y,1,5,2,8,126000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12411,34.00273973,4,-1773,4.857534247,4,1,1,0,0,0,0,1,3,Managers,4,8,73
+5008888,Amanda,Female,N,0,0,Y,1,5,0,10,247500,6,Commercial associate,6,Higher education,8,Separated,4,Rented apartment,8,-17016,46.61917808,3,-1347,3.690410959,4,1,1,0,0,0,0,0,0,Core staff,1,10,65
+5008889,Christine,Female,N,0,0,Y,1,5,0,10,247500,6,Commercial associate,6,Higher education,8,Separated,4,Rented apartment,8,-17016,46.61917808,3,-1347,3.690410959,4,1,1,0,0,0,0,0,0,Core staff,1,10,65
+5008890,Sara,Female,N,0,0,Y,1,5,0,10,247500,6,Commercial associate,6,Higher education,8,Separated,4,Rented apartment,8,-17016,46.61917808,3,-1347,3.690410959,4,1,1,0,0,0,0,0,0,Core staff,1,10,65
+5112847,Dorothy,Female,N,0,0,Y,1,5,0,10,247500,6,Commercial associate,6,Higher education,8,Separated,4,Rented apartment,8,-17016,46.61917808,3,-1347,3.690410959,4,1,1,0,0,0,0,0,0,Core staff,1,10,65
+5008891,Kathy,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008893,Stephanie,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008895,Jeanne,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008896,Michelle,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008897,Andrea,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008898,Barbara,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008899,Ana,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008900,Crystal,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008903,Alison,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008905,Theresa,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008906,Heather,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008907,Amy,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008908,Betty,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008910,Pamela,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008911,Anna,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008914,Angel,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008915,Debra,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008916,Jody,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008919,Gabriella,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008922,Shari,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008923,Bonnie,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008924,Judith,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008925,Vanessa,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008926,Mary,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008927,Michele,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008928,Brittany,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008930,Nicole,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008933,Alexandra,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008934,Lori,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008937,Kelly,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008939,Maria,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008941,Caroline,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+6153773,Nina,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+6153774,Brandy,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+6153775,Kimberly,Female,N,0,0,Y,1,5,0,10,297000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,Rented apartment,8,-15519,42.51780822,3,-3234,8.860273973,5,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5008942,Jacqueline,Female,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-13642,37.37534247,4,-4846,13.27671233,5,1,1,0,0,1,3,0,0,High skill tech staff,2,10,73
+5008944,Tammy,Female,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-13642,37.37534247,4,-4846,13.27671233,5,1,1,0,0,1,3,0,0,High skill tech staff,2,10,73
+5008945,Nancy,Female,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-13642,37.37534247,4,-4846,13.27671233,5,1,1,0,0,1,3,0,0,High skill tech staff,2,10,73
+5008946,Diana,Female,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-13642,37.37534247,4,-4846,13.27671233,5,1,1,0,0,1,3,0,0,High skill tech staff,2,10,73
+5008947,Adam,Male,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15484,42.42191781,3,-1408,3.857534247,4,1,1,1,3,1,3,0,0,Drivers,2,10,77
+5008948,Craig,Male,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15484,42.42191781,3,-1408,3.857534247,4,1,1,1,3,1,3,0,0,Drivers,2,10,77
+5008949,Jeremy,Male,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15484,42.42191781,3,-1408,3.857534247,4,1,1,1,3,1,3,0,0,Drivers,2,10,77
+5008950,Dalton,Male,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15484,42.42191781,3,-1408,3.857534247,4,1,1,1,3,1,3,0,0,Drivers,2,10,77
+5008951,Grant,Male,N,0,0,Y,1,5,1,8,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10321,28.27671233,5,-2808,7.693150685,5,1,1,0,0,0,0,0,0,,3,8,70
+5008952,Larry,Male,N,0,0,Y,1,5,1,8,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10321,28.27671233,5,-2808,7.693150685,5,1,1,0,0,0,0,0,0,,3,8,70
+5008953,Jesse,Male,N,0,0,Y,1,5,1,8,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10321,28.27671233,5,-2808,7.693150685,5,1,1,0,0,0,0,0,0,,3,8,70
+5008955,Brenda,Female,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17785,48.7260274,3,-1712,4.690410959,4,1,1,0,0,0,0,0,0,Laborers,2,10,76
+5008956,Sarah,Female,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17785,48.7260274,3,-1712,4.690410959,4,1,1,0,0,0,0,0,0,Laborers,2,10,76
+5008958,Evelyn,Female,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17785,48.7260274,3,-1712,4.690410959,4,1,1,0,0,0,0,0,0,Laborers,2,10,76
+5008959,Paula,Female,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17785,48.7260274,3,-1712,4.690410959,4,1,1,0,0,0,0,0,0,Laborers,2,10,76
+5008960,Lisa,Female,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17785,48.7260274,3,-1712,4.690410959,4,1,1,0,0,0,0,0,0,Laborers,2,10,76
+5008962,Tina,Female,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17785,48.7260274,3,-1712,4.690410959,4,1,1,0,0,0,0,0,0,Laborers,2,10,76
+5008963,Teresa,Female,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17785,48.7260274,3,-1712,4.690410959,4,1,1,0,0,0,0,0,0,Laborers,2,10,76
+5008966,Austin,Male,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16027,43.90958904,3,-889,2.435616438,2,1,1,0,0,1,3,0,0,,2,10,72
+5008967,Dennis,Male,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16027,43.90958904,3,-889,2.435616438,2,1,1,0,0,1,3,0,0,,2,10,72
+5008971,James,Male,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16027,43.90958904,3,-889,2.435616438,2,1,1,0,0,1,3,0,0,,2,10,72
+5008974,Denise,Female,N,0,0,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22319,61.14794521,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,63
+5008975,Audrey,Female,N,0,0,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22319,61.14794521,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,63
+5008978,Natasha,Female,N,0,0,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22319,61.14794521,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,63
+5008979,Sheri,Female,N,0,0,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22319,61.14794521,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,63
+5008984,Anthony,Male,Y,1,5,Y,1,5,0,10,112500,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-20874,57.1890411,2,-2381,6.523287671,5,1,1,0,0,1,3,0,0,Drivers,2,10,81
+5008987,Michael,Male,Y,1,5,Y,1,5,0,10,112500,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-20874,57.1890411,2,-2381,6.523287671,5,1,1,0,0,1,3,0,0,Drivers,2,10,81
+6153800,Shawn,Male,Y,1,5,Y,1,5,0,10,112500,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-20874,57.1890411,2,-2381,6.523287671,5,1,1,0,0,1,3,0,0,Drivers,2,10,81
+5008991,Briana,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-16582,45.43013699,3,-1194,3.271232877,4,1,1,1,3,1,3,0,0,Cleaning staff,1,10,76
+5008992,Leslie,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-16582,45.43013699,3,-1194,3.271232877,4,1,1,1,3,1,3,0,0,Cleaning staff,1,10,76
+5008993,Darlene,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-16582,45.43013699,3,-1194,3.271232877,4,1,1,1,3,1,3,0,0,Cleaning staff,1,10,76
+5008995,Brandi,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-16582,45.43013699,3,-1194,3.271232877,4,1,1,1,3,1,3,0,0,Cleaning staff,1,10,76
+5112861,Felicia,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-16582,45.43013699,3,-1194,3.271232877,4,1,1,1,3,1,3,0,0,Cleaning staff,1,10,76
+5008998,Danielle,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-10628,29.11780822,5,-828,2.268493151,2,1,1,0,0,0,0,1,3,Managers,2,10,83
+5008999,Virginia,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-10628,29.11780822,5,-828,2.268493151,2,1,1,0,0,0,0,1,3,Managers,2,10,83
+5009000,Roy,Male,Y,1,5,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-9927,27.19726027,5,-828,2.268493151,2,1,1,0,0,0,0,0,0,Drivers,2,10,76
+5009001,Nicholas,Male,N,0,0,Y,1,5,0,10,166500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18926,51.85205479,2,-6276,17.19452055,5,1,1,1,3,1,3,0,0,Laborers,2,10,77
+5009002,Aaron,Male,N,0,0,Y,1,5,0,10,166500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18926,51.85205479,2,-6276,17.19452055,5,1,1,1,3,1,3,0,0,Laborers,2,10,77
+5009006,Todd,Male,N,0,0,Y,1,5,0,10,166500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18926,51.85205479,2,-6276,17.19452055,5,1,1,1,3,1,3,0,0,Laborers,2,10,77
+5009008,Cole,Male,N,0,0,Y,1,5,0,10,166500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18926,51.85205479,2,-6276,17.19452055,5,1,1,1,3,1,3,0,0,Laborers,2,10,77
+5009014,Willie,Male,N,0,0,Y,1,5,0,10,166500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18926,51.85205479,2,-6276,17.19452055,5,1,1,1,3,1,3,0,0,Laborers,2,10,77
+6153578,Francisco,Male,N,0,0,Y,1,5,0,10,166500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18926,51.85205479,2,-6276,17.19452055,5,1,1,1,3,1,3,0,0,Laborers,2,10,77
+5009016,Katherine,Female,N,0,0,Y,1,5,2,8,216000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-15444,42.31232877,3,-3112,8.526027397,5,1,1,0,0,0,0,1,3,,4,8,77
+5009022,Veronica,Female,N,0,0,Y,1,5,2,8,216000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-15444,42.31232877,3,-3112,8.526027397,5,1,1,0,0,0,0,1,3,,4,8,77
+5009023,Cheyenne,Female,N,0,0,Y,1,5,2,8,216000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-15444,42.31232877,3,-3112,8.526027397,5,1,1,0,0,0,0,1,3,,4,8,77
+5009025,Julia,Female,N,0,0,Y,1,5,2,8,216000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-15444,42.31232877,3,-3112,8.526027397,5,1,1,0,0,0,0,1,3,,4,8,77
+6153580,Candice,Female,N,0,0,Y,1,5,2,8,216000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-15444,42.31232877,3,-3112,8.526027397,5,1,1,0,0,0,0,1,3,,4,8,77
+5009027,Whitney,Female,Y,1,5,Y,1,5,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-19861,54.41369863,2,-10843,29.70684932,5,1,1,0,0,0,0,1,3,Laborers,2,10,77
+5112862,Adrienne,Female,Y,1,5,Y,1,5,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-19861,54.41369863,2,-10843,29.70684932,5,1,1,0,0,0,0,1,3,Laborers,2,10,77
+5009028,Cheryl,Female,Y,1,5,Y,1,5,0,10,225000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-14450,39.5890411,4,-2777,7.608219178,5,1,1,0,0,0,0,0,0,Laborers,2,10,76
+5009029,Kayla,Female,Y,1,5,Y,1,5,0,10,225000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-14450,39.5890411,4,-2777,7.608219178,5,1,1,0,0,0,0,0,0,Laborers,2,10,76
+5009032,Ashley,Female,N,0,0,Y,1,5,0,10,315000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-10554,28.91506849,5,-1194,3.271232877,4,1,1,0,0,0,0,0,0,Accountants,1,10,65
+6153669,Sandra,Female,N,0,0,Y,1,5,0,10,315000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-10554,28.91506849,5,-1194,3.271232877,4,1,1,0,0,0,0,0,0,Accountants,1,10,65
+5009037,Deborah,Female,N,0,0,N,0,0,0,10,255150,6,Pensioner,2,Incomplete higher,6,Civil marriage,8,Rented apartment,8,-18682,51.18356164,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,56
+5009038,Stacey,Female,N,0,0,N,0,0,0,10,255150,6,Pensioner,2,Incomplete higher,6,Civil marriage,8,Rented apartment,8,-18682,51.18356164,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,56
+5009043,Belinda,Female,N,0,0,Y,1,5,0,10,148500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-17641,48.33150685,3,-889,2.435616438,2,1,1,0,0,0,0,0,0,Core staff,2,10,73
+5009045,Miranda,Female,N,0,0,Y,1,5,0,10,148500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-17641,48.33150685,3,-889,2.435616438,2,1,1,0,0,0,0,0,0,Core staff,2,10,73
+5009053,Anita,Female,N,0,0,Y,1,5,2,8,202500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-10997,30.12876712,4,-2289,6.271232877,5,1,1,0,0,0,0,1,3,Core staff,4,8,76
+5009055,Marilyn,Female,N,0,0,Y,1,5,2,8,202500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-10997,30.12876712,4,-2289,6.271232877,5,1,1,0,0,0,0,1,3,Core staff,4,8,76
+5009060,Cristina,Female,N,0,0,Y,1,5,0,10,94500,4,Pensioner,2,Higher education,8,Married,10,House / apartment,10,-22331,61.18082192,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,68
+5009065,Timothy,Male,Y,1,5,Y,1,5,0,10,315000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-10450,28.63013699,5,-2077,5.690410959,5,1,1,0,0,0,0,0,0,Sales staff,2,10,77
+5009066,Clinton,Male,Y,1,5,Y,1,5,0,10,315000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-10450,28.63013699,5,-2077,5.690410959,5,1,1,0,0,0,0,0,0,Sales staff,2,10,77
+5009068,Dylan,Male,Y,1,5,Y,1,5,0,10,315000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-10450,28.63013699,5,-2077,5.690410959,5,1,1,0,0,0,0,0,0,Sales staff,2,10,77
+5009071,Tiffany,Female,Y,1,5,Y,1,5,0,10,270000,6,Commercial associate,6,Incomplete higher,6,Civil marriage,8,Municipal apartment,4,-10264,28.12054795,5,-3173,8.693150685,5,1,1,0,0,1,3,1,3,High skill tech staff,2,10,77
+5009072,Emily,Female,Y,1,5,Y,1,5,0,10,270000,6,Commercial associate,6,Incomplete higher,6,Civil marriage,8,Municipal apartment,4,-10264,28.12054795,5,-3173,8.693150685,5,1,1,0,0,1,3,1,3,High skill tech staff,2,10,77
+6153722,Joanna,Female,Y,1,5,Y,1,5,0,10,270000,6,Commercial associate,6,Incomplete higher,6,Civil marriage,8,Municipal apartment,4,-10264,28.12054795,5,-3173,8.693150685,5,1,1,0,0,1,3,1,3,High skill tech staff,2,10,77
+5009078,Ryan,Male,N,0,0,Y,1,5,1,8,180000,6,Working,8,Secondary / secondary special,4,Married,10,With parents,6,-14122,38.69041096,4,-1286,3.523287671,4,1,1,0,0,0,0,0,0,Drivers,3,8,64
+5009079,Joy,Female,N,0,0,Y,1,5,0,10,112500,6,Working,8,Higher education,8,Civil marriage,8,House / apartment,10,-10064,27.57260274,5,-3173,8.693150685,5,1,1,0,0,0,0,1,3,Laborers,2,10,79
+5009080,Shannon,Female,N,0,0,Y,1,5,0,10,112500,6,Working,8,Higher education,8,Civil marriage,8,House / apartment,10,-10064,27.57260274,5,-3173,8.693150685,5,1,1,0,0,0,0,1,3,Laborers,2,10,79
+5009084,Cody,Male,N,0,0,Y,1,5,0,10,90000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20531,56.24931507,2,-5730,15.69863014,5,1,1,0,0,0,0,0,0,Drivers,2,10,69
+6153724,Jose,Male,N,0,0,Y,1,5,0,10,90000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20531,56.24931507,2,-5730,15.69863014,5,1,1,0,0,0,0,0,0,Drivers,2,10,69
+6153738,Thomas,Male,N,0,0,Y,1,5,0,10,90000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20531,56.24931507,2,-5730,15.69863014,5,1,1,0,0,0,0,0,0,Drivers,2,10,69
+5009088,Tyler,Male,Y,1,5,N,0,0,2,8,202500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-14730,40.35616438,3,-2989,8.189041096,5,1,1,0,0,0,0,0,0,Laborers,4,8,70
+5009089,Evan,Male,Y,1,5,N,0,0,2,8,202500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-14730,40.35616438,3,-2989,8.189041096,5,1,1,0,0,0,0,0,0,Laborers,4,8,70
+6153740,Joshua,Male,Y,1,5,N,0,0,2,8,202500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-14730,40.35616438,3,-2989,8.189041096,5,1,1,0,0,0,0,0,0,Laborers,4,8,70
+5009090,Sergio,Male,Y,1,5,Y,1,5,0,10,247500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12628,34.59726027,4,-4025,11.02739726,5,1,1,0,0,0,0,0,0,Drivers,2,10,78
+5009092,Luis,Male,Y,1,5,Y,1,5,1,8,765000,8,Working,8,Higher education,8,Married,10,House / apartment,10,-12197,33.41643836,4,-1194,3.271232877,4,1,1,1,3,0,0,0,0,Managers,3,8,82
+5009098,Rebecca,Female,N,0,0,Y,1,5,1,8,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-13679,37.47671233,4,-4391,12.03013699,5,1,1,0,0,0,0,1,3,Accountants,3,8,70
+5009105,Logan,Male,Y,1,5,Y,1,5,2,8,157500,6,Working,8,Secondary / secondary special,4,Married,10,With parents,6,-12859,35.23013699,4,-4056,11.11232877,5,1,1,0,0,1,3,0,0,Drivers,4,8,73
+5009106,Stephen,Male,Y,1,5,Y,1,5,2,8,157500,6,Working,8,Secondary / secondary special,4,Married,10,With parents,6,-12859,35.23013699,4,-4056,11.11232877,5,1,1,0,0,1,3,0,0,Drivers,4,8,73
+5112876,Isaiah,Male,Y,1,5,Y,1,5,2,8,157500,6,Working,8,Secondary / secondary special,4,Married,10,With parents,6,-12859,35.23013699,4,-4056,11.11232877,5,1,1,0,0,1,3,0,0,Drivers,4,8,73
+5009108,Zachary,Male,N,0,0,Y,1,5,0,10,360000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15321,41.97534247,3,-2747,7.526027397,5,1,1,0,0,0,0,0,0,Security staff,2,10,70
+5009123,Jean,Female,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Higher education,8,Separated,4,With parents,6,-15737,43.11506849,3,-432,1.183561644,2,1,1,0,0,0,0,0,0,,1,10,56
+5009124,Kim,Female,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Higher education,8,Separated,4,With parents,6,-15737,43.11506849,3,-432,1.183561644,2,1,1,0,0,0,0,0,0,,1,10,56
+5009130,Robin,Female,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Higher education,8,Separated,4,With parents,6,-15737,43.11506849,3,-432,1.183561644,2,1,1,0,0,0,0,0,0,,1,10,56
+5009131,Alexis,Female,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Higher education,8,Separated,4,With parents,6,-15737,43.11506849,3,-432,1.183561644,2,1,1,0,0,0,0,0,0,,1,10,56
+5009134,Terry,Male,N,0,0,Y,1,5,0,10,382500,6,Pensioner,2,Secondary / secondary special,4,Widow,6,House / apartment,10,-21673,59.37808219,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,1,10,59
+5009135,Lee,Male,N,0,0,Y,1,5,0,10,382500,6,Pensioner,2,Secondary / secondary special,4,Widow,6,House / apartment,10,-21673,59.37808219,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,1,10,59
+5009137,Marcus,Male,N,0,0,Y,1,5,0,10,382500,6,Pensioner,2,Secondary / secondary special,4,Widow,6,House / apartment,10,-21673,59.37808219,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,1,10,59
+5009142,Charlene,Female,N,0,0,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-9657,26.45753425,5,-1560,4.273972603,4,1,1,1,3,1,3,0,0,Managers,2,10,72
+5009151,Desiree,Female,N,0,0,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19575,53.63013699,2,-2901,7.947945205,5,1,1,0,0,0,0,0,0,Sales staff,2,10,66
+5009154,Sandy,Female,N,0,0,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19575,53.63013699,2,-2901,7.947945205,5,1,1,0,0,0,0,0,0,Sales staff,2,10,66
+5009156,Diane,Female,N,0,0,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19575,53.63013699,2,-2901,7.947945205,5,1,1,0,0,0,0,0,0,Sales staff,2,10,66
+5009160,Jo,Female,N,0,0,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19575,53.63013699,2,-2901,7.947945205,5,1,1,0,0,0,0,0,0,Sales staff,2,10,66
+5009162,Rebekah,Female,N,0,0,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19575,53.63013699,2,-2901,7.947945205,5,1,1,0,0,0,0,0,0,Sales staff,2,10,66
+5009164,Joyce,Female,N,0,0,N,0,0,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12915,35.38356164,4,-3174,8.695890411,5,1,1,0,0,1,3,0,0,Sales staff,2,10,71
+5009166,Natalie,Female,N,0,0,N,0,0,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12915,35.38356164,4,-3174,8.695890411,5,1,1,0,0,1,3,0,0,Sales staff,2,10,71
+5009170,Shawna,Female,Y,1,5,N,0,0,0,10,144000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22877,62.67671233,2,365243,1000.665753,3,1,1,0,0,1,3,1,3,,2,10,69
+5009178,Javier,Male,Y,1,5,N,0,0,0,10,229500,6,Working,8,Incomplete higher,6,Married,10,Co-op apartment,9,-18325,50.20547945,2,-1256,3.44109589,4,1,1,0,0,0,0,0,0,Laborers,2,10,71
+5009180,Seth,Male,Y,1,5,N,0,0,0,10,229500,6,Working,8,Incomplete higher,6,Married,10,Co-op apartment,9,-18325,50.20547945,2,-1256,3.44109589,4,1,1,0,0,0,0,0,0,Laborers,2,10,71
+5009182,Sean,Male,Y,1,5,N,0,0,0,10,229500,6,Working,8,Incomplete higher,6,Married,10,Co-op apartment,9,-18325,50.20547945,2,-1256,3.44109589,4,1,1,0,0,0,0,0,0,Laborers,2,10,71
+6153806,Daniel,Male,Y,1,5,N,0,0,0,10,229500,6,Working,8,Incomplete higher,6,Married,10,Co-op apartment,9,-18325,50.20547945,2,-1256,3.44109589,4,1,1,0,0,0,0,0,0,Laborers,2,10,71
+5009186,Olivia,Female,N,0,0,N,0,0,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-17573,48.14520548,3,-5792,15.86849315,5,1,1,1,3,1,3,0,0,Managers,2,10,77
+5009187,Kaitlyn,Female,N,0,0,N,0,0,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-17573,48.14520548,3,-5792,15.86849315,5,1,1,1,3,1,3,0,0,Managers,2,10,77
+5009188,Katie,Female,N,0,0,N,0,0,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-17573,48.14520548,3,-5792,15.86849315,5,1,1,1,3,1,3,0,0,Managers,2,10,77
+5009190,Carrie,Female,N,0,0,N,0,0,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-17573,48.14520548,3,-5792,15.86849315,5,1,1,1,3,1,3,0,0,Managers,2,10,77
+5009191,Michaela,Female,N,0,0,N,0,0,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-17573,48.14520548,3,-5792,15.86849315,5,1,1,1,3,1,3,0,0,Managers,2,10,77
+5009198,Madison,Female,N,0,0,N,0,0,0,10,292500,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-20953,57.40547945,2,-8684,23.79178082,5,1,1,1,3,1,3,0,0,Accountants,2,10,74
+5009201,Ashlee,Female,N,0,0,N,0,0,0,10,292500,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-20953,57.40547945,2,-8684,23.79178082,5,1,1,1,3,1,3,0,0,Accountants,2,10,74
+5009202,Laura,Female,N,0,0,N,0,0,0,10,292500,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-20953,57.40547945,2,-8684,23.79178082,5,1,1,1,3,1,3,0,0,Accountants,2,10,74
+6153809,Brooke,Female,N,0,0,N,0,0,0,10,292500,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-20953,57.40547945,2,-8684,23.79178082,5,1,1,1,3,1,3,0,0,Accountants,2,10,74
+5009215,Brittney,Female,N,0,0,N,0,0,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-12333,33.7890411,4,-860,2.356164384,2,1,1,1,3,1,3,0,0,Accountants,2,10,75
+6153550,Kristina,Female,N,0,0,N,0,0,0,10,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-12333,33.7890411,4,-860,2.356164384,2,1,1,1,3,1,3,0,0,Accountants,2,10,75
+5009222,Tabitha,Female,Y,1,5,N,0,0,0,10,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-14667,40.18356164,3,-798,2.18630137,2,1,1,1,3,0,0,0,0,Managers,2,10,72
+5009225,Cynthia,Female,Y,1,5,N,0,0,0,10,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-14667,40.18356164,3,-798,2.18630137,2,1,1,1,3,0,0,0,0,Managers,2,10,72
+5009236,Rita,Female,Y,1,5,N,0,0,0,10,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-14667,40.18356164,3,-798,2.18630137,2,1,1,1,3,0,0,0,0,Managers,2,10,72
+5009241,Glenn,Male,Y,1,5,N,0,0,0,10,157500,6,Working,8,Incomplete higher,6,Married,10,With parents,6,-10611,29.07123288,5,-982,2.690410959,2,1,1,0,0,1,3,0,0,Drivers,2,10,72
+5009246,Gina,Female,N,0,0,N,0,0,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-14201,38.90684932,4,-2139,5.860273973,5,1,1,0,0,1,3,0,0,,2,10,69
+5009249,Justin,Male,Y,1,5,N,0,0,1,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-9957,27.27945205,5,-921,2.523287671,2,1,1,1,3,0,0,0,0,Drivers,3,8,70
+5009252,Donald,Male,Y,1,5,N,0,0,1,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-9957,27.27945205,5,-921,2.523287671,2,1,1,1,3,0,0,0,0,Drivers,3,8,70
+5009253,Paul,Male,Y,1,5,N,0,0,1,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-9957,27.27945205,5,-921,2.523287671,2,1,1,1,3,0,0,0,0,Drivers,3,8,70
+6153557,Andrew,Male,Y,1,5,N,0,0,1,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-9957,27.27945205,5,-921,2.523287671,2,1,1,1,3,0,0,0,0,Drivers,3,8,70
+5009257,Donna,Female,N,0,0,N,0,0,0,10,144000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-15970,43.75342466,3,-8987,24.62191781,5,1,1,0,0,0,0,0,0,Cleaning staff,1,10,59
+5009260,Mariah,Female,N,0,0,N,0,0,0,10,202500,6,State servant,10,Higher education,8,Married,10,With parents,6,-14562,39.89589041,4,-1287,3.526027397,4,1,1,0,0,1,3,0,0,Core staff,2,10,72
+5009263,Kathleen,Female,N,0,0,N,0,0,0,10,202500,6,State servant,10,Higher education,8,Married,10,With parents,6,-14562,39.89589041,4,-1287,3.526027397,4,1,1,0,0,1,3,0,0,Core staff,2,10,72
+6153558,Kendra,Female,N,0,0,N,0,0,0,10,202500,6,State servant,10,Higher education,8,Married,10,With parents,6,-14562,39.89589041,4,-1287,3.526027397,4,1,1,0,0,1,3,0,0,Core staff,2,10,72
+5009264,Emma,Female,N,0,0,N,0,0,0,10,40500,2,Pensioner,2,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-21091,57.78356164,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,1,10,46
+5009266,Eric,Male,Y,1,5,N,0,0,0,10,337500,6,State servant,10,Higher education,8,Married,10,With parents,6,-10266,28.1260274,5,-1652,4.526027397,4,1,1,1,3,1,3,0,0,Managers,2,10,81
+5009267,Brian,Male,Y,1,5,N,0,0,0,10,337500,6,State servant,10,Higher education,8,Married,10,With parents,6,-10266,28.1260274,5,-1652,4.526027397,4,1,1,1,3,1,3,0,0,Managers,2,10,81
+5009271,Nathan,Male,N,0,0,N,0,0,0,10,180000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,Municipal apartment,4,-14781,40.49589041,3,-2443,6.693150685,5,1,1,0,0,1,3,0,0,Laborers,2,10,62
+5009274,Jordan,Male,N,0,0,N,0,0,0,10,180000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,Municipal apartment,4,-14781,40.49589041,3,-2443,6.693150685,5,1,1,0,0,1,3,0,0,Laborers,2,10,62
+5009277,Raymond,Male,N,0,0,N,0,0,0,10,180000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,Municipal apartment,4,-14781,40.49589041,3,-2443,6.693150685,5,1,1,0,0,1,3,0,0,Laborers,2,10,62
+5009278,Julie,Female,N,0,0,N,0,0,0,10,130500,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-15140,41.47945205,3,-4816,13.19452055,5,1,1,0,0,1,3,0,0,Cleaning staff,2,10,68
+5009281,Jill,Female,N,0,0,N,0,0,0,10,130500,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-15140,41.47945205,3,-4816,13.19452055,5,1,1,0,0,1,3,0,0,Cleaning staff,2,10,68
+5009296,Haley,Female,N,0,0,N,0,0,0,10,144000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-21041,57.64657534,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,61
+5009301,Kathryn,Female,N,0,0,N,0,0,0,10,193500,6,Working,8,Secondary / secondary special,4,Single / not married,2,Municipal apartment,4,-16099,44.10684932,3,-1866,5.112328767,5,1,1,0,0,1,3,0,0,Laborers,1,10,56
+6153561,Leah,Female,N,0,0,N,0,0,0,10,193500,6,Working,8,Secondary / secondary special,4,Single / not married,2,Municipal apartment,4,-16099,44.10684932,3,-1866,5.112328767,5,1,1,0,0,1,3,0,0,Laborers,1,10,56
+5009306,Misty,Female,Y,1,5,N,0,0,0,10,135000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-20140,55.17808219,2,365243,1000.665753,3,1,1,0,0,1,3,1,3,,2,10,69
+5009312,Chelsea,Female,Y,1,5,N,0,0,0,10,135000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-20140,55.17808219,2,365243,1000.665753,3,1,1,0,0,1,3,1,3,,2,10,69
+5009325,Calvin,Male,Y,1,5,N,0,0,0,10,267750,6,Working,8,Higher education,8,Married,10,House / apartment,10,-20991,57.50958904,2,-4727,12.95068493,5,1,1,0,0,1,3,0,0,Laborers,2,10,78
+5009332,Johnny,Male,Y,1,5,N,0,0,0,10,267750,6,Working,8,Higher education,8,Married,10,House / apartment,10,-20991,57.50958904,2,-4727,12.95068493,5,1,1,0,0,1,3,0,0,Laborers,2,10,78
+5009338,Tommy,Male,N,0,0,N,0,0,0,10,67500,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18674,51.16164384,2,-5304,14.53150685,5,1,1,1,3,1,3,0,0,Security staff,2,10,70
+5009344,Blake,Male,Y,1,5,N,0,0,0,10,252000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10750,29.45205479,5,-2443,6.693150685,5,1,1,0,0,0,0,0,0,High skill tech staff,2,10,74
+5009345,Edward,Male,Y,1,5,N,0,0,0,10,252000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10750,29.45205479,5,-2443,6.693150685,5,1,1,0,0,0,0,0,0,High skill tech staff,2,10,74
+5009346,Benjamin,Male,Y,1,5,N,0,0,0,10,252000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10750,29.45205479,5,-2443,6.693150685,5,1,1,0,0,0,0,0,0,High skill tech staff,2,10,74
+5009354,William,Male,N,0,0,N,0,0,0,10,180000,6,Commercial associate,6,Lower secondary,2,Married,10,House / apartment,10,-21155,57.95890411,2,-130,0.356164384,1,1,1,0,0,1,3,0,0,Drivers,2,10,61
+5009358,Tracy,Female,N,0,0,N,0,0,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-19692,53.95068493,2,-5273,14.44657534,5,1,1,1,3,1,3,0,0,Laborers,2,10,70
+5009359,Kristine,Female,Y,1,5,N,0,0,0,10,900000,8,Working,8,Higher education,8,Single / not married,2,House / apartment,10,-19063,52.22739726,2,-7404,20.28493151,5,1,1,0,0,0,0,0,0,Managers,1,10,69
+5009362,Walter,Male,Y,1,5,N,0,0,0,10,180000,6,Commercial associate,6,Higher education,8,Civil marriage,8,House / apartment,10,-14867,40.73150685,3,-586,1.605479452,2,1,1,1,3,0,0,0,0,Drivers,2,10,72
+5009363,Samuel,Male,Y,1,5,N,0,0,0,10,180000,6,Commercial associate,6,Higher education,8,Civil marriage,8,House / apartment,10,-14867,40.73150685,3,-586,1.605479452,2,1,1,1,3,0,0,0,0,Drivers,2,10,72
+5009364,Ian,Male,Y,1,5,N,0,0,0,10,180000,6,Commercial associate,6,Higher education,8,Civil marriage,8,House / apartment,10,-14867,40.73150685,3,-586,1.605479452,2,1,1,1,3,0,0,0,0,Drivers,2,10,72
+5009365,Jeffrey,Male,Y,1,5,N,0,0,0,10,180000,6,Commercial associate,6,Higher education,8,Civil marriage,8,House / apartment,10,-14867,40.73150685,3,-586,1.605479452,2,1,1,1,3,0,0,0,0,Drivers,2,10,72
+5009368,George,Male,Y,1,5,N,0,0,0,10,115290,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23187,63.5260274,2,365243,1000.665753,3,1,1,0,0,1,3,1,3,,2,10,69
+5009372,Adrian,Male,Y,1,5,N,0,0,0,10,115290,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23187,63.5260274,2,365243,1000.665753,3,1,1,0,0,1,3,1,3,,2,10,69
+5009373,Jared,Male,Y,1,5,N,0,0,0,10,115290,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23187,63.5260274,2,365243,1000.665753,3,1,1,0,0,1,3,1,3,,2,10,69
+5009378,Sharon,Female,N,0,0,N,0,0,2,8,225000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-11281,30.90684932,4,-1744,4.778082192,4,1,1,1,3,0,0,1,3,Core staff,4,8,73
+5009379,Shane,Male,Y,1,5,N,0,0,1,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-9430,25.83561644,5,-1195,3.273972603,4,1,1,1,3,0,0,0,0,Sales staff,3,8,72
+5009380,Douglas,Male,Y,1,5,N,0,0,1,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-9430,25.83561644,5,-1195,3.273972603,4,1,1,1,3,0,0,0,0,Sales staff,3,8,72
+5009383,Tara,Female,N,0,0,N,0,0,0,10,450000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-14718,40.32328767,3,-5578,15.28219178,5,1,1,0,0,1,3,0,0,Managers,2,10,76
+5009386,Jenna,Female,N,0,0,N,0,0,0,10,450000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-14718,40.32328767,3,-5578,15.28219178,5,1,1,0,0,1,3,0,0,Managers,2,10,76
+5009387,Penny,Female,N,0,0,N,0,0,0,10,450000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-14718,40.32328767,3,-5578,15.28219178,5,1,1,0,0,1,3,0,0,Managers,2,10,76
+6153591,Dakota,Male,N,0,0,N,0,0,0,10,279000,6,State servant,10,Higher education,8,Single / not married,2,House / apartment,10,-11042,30.25205479,4,-3174,8.695890411,5,1,1,0,0,0,0,0,0,Core staff,1,10,66
+5009398,Melinda,Female,N,0,0,N,0,0,1,8,76500,4,Working,8,Higher education,8,Civil marriage,8,House / apartment,10,-12506,34.2630137,4,-495,1.356164384,2,1,1,1,3,0,0,0,0,Accountants,3,8,64
+5009401,Margaret,Female,N,0,0,N,0,0,1,8,76500,4,Working,8,Higher education,8,Civil marriage,8,House / apartment,10,-12506,34.2630137,4,-495,1.356164384,2,1,1,1,3,0,0,0,0,Accountants,3,8,64
+5009403,Derrick,Male,N,0,0,N,0,0,0,10,202500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20604,56.44931507,2,-252,0.690410959,1,1,1,1,3,1,3,0,0,Security staff,2,10,66
+6153594,Dana,Female,N,0,0,N,0,0,2,8,67500,4,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-10331,28.30410959,5,-433,1.18630137,2,1,1,0,0,1,3,0,0,Core staff,4,8,65
+5009408,Alan,Male,N,0,0,N,0,0,0,10,234000,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-13923,38.14520548,4,-2290,6.273972603,5,1,1,1,3,1,3,0,0,Drivers,2,10,76
+5009418,Carla,Female,N,0,0,N,0,0,0,10,90000,4,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-19304,52.88767123,2,-464,1.271232877,2,1,1,1,3,1,3,0,0,Core staff,1,10,59
+5009426,Charles,Male,N,0,0,N,0,0,0,10,99000,4,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-19944,54.64109589,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,56
+5009429,Ronnie,Male,N,0,0,N,0,0,0,10,198000,6,Working,8,Secondary / secondary special,4,Single / not married,2,With parents,6,-8657,23.71780822,5,-1164,3.189041096,4,1,1,1,3,0,0,0,0,Laborers,1,10,59
+5009437,Gloria,Female,N,0,0,N,0,0,0,10,76500,4,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23480,64.32876712,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,56
+5009442,Tanya,Female,N,0,0,N,0,0,0,10,90000,4,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-9489,25.99726027,5,-1682,4.608219178,4,1,1,0,0,1,3,0,0,,2,10,71
+5009444,Amber,Female,N,0,0,N,0,0,0,10,90000,4,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-9489,25.99726027,5,-1682,4.608219178,4,1,1,0,0,1,3,0,0,,2,10,71
+5009447,Dustin,Male,Y,1,5,N,0,0,0,10,81000,4,Working,8,Secondary / secondary special,4,Married,10,With parents,6,-14435,39.54794521,4,-3386,9.276712329,5,1,1,1,3,0,0,0,0,Drivers,2,10,70
+5009455,Lindsey,Female,N,0,0,N,0,0,0,10,202500,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-17274,47.3260274,3,-1348,3.693150685,4,1,1,0,0,1,3,0,0,Laborers,2,10,75
+5009456,Kelsey,Female,N,0,0,N,0,0,0,10,202500,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-17274,47.3260274,3,-1348,3.693150685,4,1,1,0,0,1,3,0,0,Laborers,2,10,75
+5009457,Molly,Female,N,0,0,N,0,0,0,10,202500,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-17274,47.3260274,3,-1348,3.693150685,4,1,1,0,0,1,3,0,0,Laborers,2,10,75
+6153614,Brianna,Female,N,0,0,N,0,0,0,10,202500,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-17274,47.3260274,3,-1348,3.693150685,4,1,1,0,0,1,3,0,0,Laborers,2,10,75
+5009459,Samantha,Female,N,0,0,N,0,0,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19702,53.97808219,2,-9870,27.04109589,5,1,1,1,3,1,3,0,0,,2,10,72
+5009470,Sydney,Female,N,0,0,N,0,0,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19702,53.97808219,2,-9870,27.04109589,5,1,1,1,3,1,3,0,0,,2,10,72
+6153627,Melanie,Female,N,0,0,N,0,0,0,10,180000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-13241,36.27671233,4,-4451,12.19452055,5,1,1,0,0,1,3,0,0,,2,10,73
+5009484,Sabrina,Female,N,0,0,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,Municipal apartment,4,-12130,33.23287671,4,-798,2.18630137,2,1,1,0,0,0,0,0,0,Cooking staff,2,10,59
+5009485,Destiny,Female,N,0,0,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,Municipal apartment,4,-12130,33.23287671,4,-798,2.18630137,2,1,1,0,0,0,0,0,0,Cooking staff,2,10,59
+5009487,Katrina,Female,N,0,0,N,0,0,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-9736,26.6739726,5,-2870,7.863013699,5,1,1,0,0,0,0,0,0,,4,8,65
+5009490,Edgar,Male,Y,1,5,N,0,0,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-16196,44.37260274,3,-6218,17.03561644,5,1,1,1,3,1,3,0,0,Laborers,2,10,76
+6153634,Philip,Male,Y,1,5,N,0,0,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-16196,44.37260274,3,-6218,17.03561644,5,1,1,1,3,1,3,0,0,Laborers,2,10,76
+5009494,Derek,Male,Y,1,5,N,0,0,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-11706,32.07123288,4,-1164,3.189041096,4,1,1,1,3,0,0,1,3,Drivers,2,10,76
+5009500,Spencer,Male,Y,1,5,N,0,0,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-11706,32.07123288,4,-1164,3.189041096,4,1,1,1,3,0,0,1,3,Drivers,2,10,76
+6153635,Gregory,Male,Y,1,5,N,0,0,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-11706,32.07123288,4,-1164,3.189041096,4,1,1,1,3,0,0,1,3,Drivers,2,10,76
+5009508,Erin,Female,N,0,0,N,0,0,0,10,202500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-16100,44.10958904,3,-4939,13.53150685,5,1,1,0,0,1,3,0,0,Core staff,2,10,74
+5009516,Courtney,Female,N,0,0,N,0,0,0,10,157500,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-16888,46.26849315,3,-2687,7.361643836,5,1,1,0,0,0,0,0,0,Core staff,2,10,69
+5009517,Heidi,Female,N,0,0,N,0,0,0,10,157500,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-16888,46.26849315,3,-2687,7.361643836,5,1,1,0,0,0,0,0,0,Core staff,2,10,69
+6153639,Rhonda,Female,N,0,0,N,0,0,0,10,157500,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-16888,46.26849315,3,-2687,7.361643836,5,1,1,0,0,0,0,0,0,Core staff,2,10,69
+5009518,Tyrone,Male,Y,1,5,N,0,0,2,8,180000,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-12463,34.14520548,4,-2170,5.945205479,5,1,1,1,3,0,0,0,0,Laborers,4,8,74
+5009525,Randy,Male,Y,1,5,N,0,0,1,8,112500,6,Working,8,Secondary / secondary special,4,Separated,4,Co-op apartment,9,-11998,32.87123288,4,-1135,3.109589041,4,1,1,1,3,0,0,0,0,Laborers,2,10,66
+5009526,Casey,Female,Y,1,5,N,0,0,0,10,157500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-13590,37.23287671,4,-982,2.690410959,2,1,1,0,0,1,3,0,0,,2,10,71
+5009536,Ruben,Male,Y,1,5,N,0,0,0,10,216000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15455,42.34246575,3,-890,2.438356164,2,1,1,1,3,0,0,0,0,Laborers,2,10,72
+5009537,Meagan,Female,Y,1,5,N,0,0,0,10,202500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15527,42.53972603,3,-1744,4.778082192,4,1,1,1,3,1,3,0,0,Sales staff,2,10,75
+5009541,Allison,Female,Y,1,5,N,0,0,0,10,202500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15527,42.53972603,3,-1744,4.778082192,4,1,1,1,3,1,3,0,0,Sales staff,2,10,75
+5009567,Devin,Male,Y,1,5,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15153,41.51506849,3,-3143,8.610958904,5,1,1,1,3,1,3,0,0,Laborers,2,10,78
+5009568,Stanley,Male,Y,1,5,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15153,41.51506849,3,-3143,8.610958904,5,1,1,1,3,1,3,0,0,Laborers,2,10,78
+5009570,Troy,Male,Y,1,5,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15153,41.51506849,3,-3143,8.610958904,5,1,1,1,3,1,3,0,0,Laborers,2,10,78
+5009579,Mckenzie,Female,N,0,0,N,0,0,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-21316,58.4,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,58
+5009595,Sonya,Female,Y,1,5,N,0,0,0,10,144000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17383,47.62465753,3,-890,2.438356164,2,1,1,1,3,1,3,0,0,Core staff,2,10,75
+5009597,Marissa,Female,Y,1,5,N,0,0,0,10,144000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17383,47.62465753,3,-890,2.438356164,2,1,1,1,3,1,3,0,0,Core staff,2,10,75
+6153655,Caitlin,Female,Y,1,5,N,0,0,0,10,315000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-13455,36.8630137,4,-2748,7.528767123,5,1,1,1,3,1,3,0,0,Sales staff,2,10,81
+5009606,Colleen,Female,N,0,0,N,0,0,1,8,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12872,35.26575342,4,-3720,10.19178082,5,1,1,1,3,0,0,0,0,Sales staff,3,8,67
+5009607,Dawn,Female,N,0,0,N,0,0,2,8,144000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12277,33.63561644,4,-982,2.690410959,2,1,1,1,3,1,3,0,0,High skill tech staff,4,8,67
+5009609,Latoya,Female,N,0,0,N,0,0,2,8,144000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12277,33.63561644,4,-982,2.690410959,2,1,1,1,3,1,3,0,0,High skill tech staff,4,8,67
+5009613,Taylor,Female,N,0,0,N,0,0,2,8,144000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12277,33.63561644,4,-982,2.690410959,2,1,1,1,3,1,3,0,0,High skill tech staff,4,8,67
+5009614,Tracey,Female,N,0,0,N,0,0,2,8,144000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12277,33.63561644,4,-982,2.690410959,2,1,1,1,3,1,3,0,0,High skill tech staff,4,8,67
+5009618,Kenneth,Male,Y,1,5,N,0,0,0,10,225000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-17367,47.58082192,3,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,64
+6153657,Joe,Male,Y,1,5,N,0,0,0,10,225000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-17367,47.58082192,3,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,64
+5009620,Cameron,Male,Y,1,5,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19056,52.20821918,2,-99,0.271232877,1,1,1,1,3,0,0,0,0,Drivers,2,10,70
+5009622,Erik,Male,Y,1,5,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19056,52.20821918,2,-99,0.271232877,1,1,1,1,3,0,0,0,0,Drivers,2,10,70
+5009632,Alice,Female,N,0,0,N,0,0,0,10,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-9890,27.09589041,5,-2047,5.608219178,5,1,1,0,0,1,3,0,0,Laborers,2,10,72
+5009634,Maurice,Male,Y,1,5,N,0,0,1,8,144000,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-10049,27.53150685,5,-283,0.775342466,1,1,1,1,3,0,0,0,0,Drivers,3,8,71
+5009654,Victoria,Female,N,0,0,N,0,0,0,10,135000,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-18650,51.09589041,2,-10936,29.96164384,5,1,1,0,0,1,3,0,0,,2,10,71
+5009655,Joann,Female,N,0,0,N,0,0,0,10,135000,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-18650,51.09589041,2,-10936,29.96164384,5,1,1,0,0,1,3,0,0,,2,10,71
+5009661,Xavier,Male,N,0,0,N,0,0,0,10,225000,6,Working,8,Higher education,8,Single / not married,2,House / apartment,10,-10166,27.85205479,5,-1774,4.860273973,4,1,1,1,3,0,0,0,0,,1,10,67
+5009663,Greg,Male,N,0,0,N,0,0,0,10,225000,6,Working,8,Higher education,8,Single / not married,2,House / apartment,10,-10166,27.85205479,5,-1774,4.860273973,4,1,1,1,3,0,0,0,0,,1,10,67
+5009677,Valerie,Female,N,0,0,N,0,0,0,10,90000,4,Pensioner,2,Secondary / secondary special,4,Widow,6,House / apartment,10,-21688,59.41917808,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,1,10,55
+5009693,Elaine,Female,N,0,0,N,0,0,0,10,153000,6,Pensioner,2,Secondary / secondary special,4,Separated,4,House / apartment,10,-23299,63.83287671,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,1,10,55
+6153677,Meghan,Female,N,0,0,N,0,0,0,10,153000,6,Pensioner,2,Secondary / secondary special,4,Separated,4,House / apartment,10,-23299,63.83287671,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,1,10,55
+5009699,Russell,Male,Y,1,5,N,0,0,0,10,1350000,10,Commercial associate,6,Higher education,8,Married,10,Municipal apartment,4,-12999,35.61369863,4,-1560,4.273972603,4,1,1,0,0,1,3,1,3,Managers,2,10,78
+5090752,Mitchell,Male,Y,1,5,N,0,0,0,10,1350000,10,Commercial associate,6,Higher education,8,Married,10,Municipal apartment,4,-12999,35.61369863,4,-1560,4.273972603,4,1,1,0,0,1,3,1,3,Managers,2,10,78
+5009704,Melody,Female,N,0,0,N,0,0,0,10,139500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-20863,57.15890411,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,58
+5009707,Renee,Female,N,0,0,N,0,0,0,10,157500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-11644,31.90136986,4,-344,0.942465753,1,1,1,0,0,0,0,0,0,Managers,2,10,68
+5009711,Carly,Female,Y,1,5,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,With parents,6,-11102,30.41643836,4,-433,1.18630137,2,1,1,1,3,1,3,0,0,Sales staff,2,10,70
+5009714,Eugene,Male,N,0,0,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-9380,25.69863014,5,-1713,4.693150685,4,1,1,1,3,1,3,0,0,,1,10,66
+5009718,Mathew,Male,N,0,0,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-9380,25.69863014,5,-1713,4.693150685,4,1,1,1,3,1,3,0,0,,1,10,66
+5009731,Alexander,Male,Y,1,5,N,0,0,0,10,292500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13178,36.10410959,4,-1317,3.608219178,4,1,1,1,3,0,0,0,0,Laborers,2,10,75
+5009743,Kristin,Female,N,0,0,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12328,33.77534247,4,-2474,6.778082192,5,1,1,1,3,1,3,0,0,Sales staff,2,10,74
+5009745,Debbie,Female,Y,1,5,N,0,0,0,10,315000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-13557,37.14246575,4,-586,1.605479452,2,1,1,1,3,1,3,0,0,,2,10,78
+5009760,Elijah,Male,Y,1,5,N,0,0,0,10,270000,6,Working,8,Higher education,8,Single / not married,2,House / apartment,10,-9087,24.89589041,5,-1682,4.608219178,4,1,1,0,0,0,0,0,0,Laborers,1,10,69
+5009789,Diamond,Female,N,0,0,N,0,0,0,10,198000,6,Pensioner,2,Secondary / secondary special,4,Widow,6,House / apartment,10,-22002,60.27945205,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,1,10,57
+5009794,Karina,Female,N,0,0,N,0,0,0,10,198000,6,Pensioner,2,Secondary / secondary special,4,Widow,6,House / apartment,10,-22002,60.27945205,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,1,10,57
+6153701,Carmen,Female,N,0,0,N,0,0,0,10,198000,6,Pensioner,2,Secondary / secondary special,4,Widow,6,House / apartment,10,-22002,60.27945205,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,1,10,57
+5009813,Toni,Female,N,0,0,N,0,0,1,8,202500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-11813,32.36438356,4,-3266,8.947945205,5,1,1,1,3,1,3,0,0,Sales staff,3,8,70
+5090773,Janice,Female,N,0,0,N,0,0,1,8,202500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-11813,32.36438356,4,-3266,8.947945205,5,1,1,1,3,1,3,0,0,Sales staff,3,8,70
+5009826,Annette,Female,N,0,0,N,0,0,0,10,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15759,43.17534247,3,-374,1.024657534,2,1,1,1,3,0,0,0,0,Sales staff,2,10,67
+5009829,Alicia,Female,N,0,0,N,0,0,0,10,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15759,43.17534247,3,-374,1.024657534,2,1,1,1,3,0,0,0,0,Sales staff,2,10,67
+5009832,Martin,Male,Y,1,5,N,0,0,0,10,166500,6,Working,8,Higher education,8,Married,10,With parents,6,-10435,28.5890411,5,-1713,4.693150685,4,1,1,1,3,0,0,0,0,Core staff,2,10,76
+5009836,Shaun,Male,Y,1,5,N,0,0,0,10,166500,6,Working,8,Higher education,8,Married,10,With parents,6,-10435,28.5890411,5,-1713,4.693150685,4,1,1,1,3,0,0,0,0,Core staff,2,10,76
+5009838,Grace,Female,N,0,0,N,0,0,0,10,135000,6,State servant,10,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-13120,35.94520548,4,-5578,15.28219178,5,1,1,0,0,0,0,0,0,Medicine staff,2,10,68
+5009873,Curtis,Male,Y,1,5,N,0,0,2,8,427500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-15144,41.49041096,3,-6400,17.53424658,5,1,1,1,3,0,0,0,0,Managers,4,8,73
+6153768,Wesley,Male,Y,1,5,N,0,0,2,8,427500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-15144,41.49041096,3,-6400,17.53424658,5,1,1,1,3,0,0,0,0,Managers,4,8,73
+5009879,Martha,Female,N,0,0,Y,1,5,2,8,144000,6,Working,8,Secondary / secondary special,4,Married,10,Municipal apartment,4,-9839,26.95616438,5,-1835,5.02739726,5,1,1,1,3,0,0,0,0,Laborers,4,8,67
+5009885,Kristi,Female,N,0,0,Y,1,5,0,10,157500,6,Pensioner,2,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-21635,59.2739726,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,64
+5009889,Peter,Male,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-13172,36.08767123,4,-1195,3.273972603,4,1,1,0,0,0,0,1,3,Managers,1,10,72
+5009915,Jocelyn,Female,N,0,0,Y,1,5,2,8,99000,4,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12752,34.9369863,4,-433,1.18630137,2,1,1,0,0,1,3,0,0,Accountants,4,8,69
+5009927,Tim,Male,Y,1,5,Y,1,5,0,10,360000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-19958,54.67945205,2,-7465,20.45205479,5,1,1,0,0,0,0,0,0,Laborers,2,10,80
+5009931,Ricky,Male,Y,1,5,Y,1,5,0,10,360000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-19958,54.67945205,2,-7465,20.45205479,5,1,1,0,0,0,0,0,0,Laborers,2,10,80
+6153645,Tony,Male,Y,1,5,Y,1,5,0,10,360000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-19958,54.67945205,2,-7465,20.45205479,5,1,1,0,0,0,0,0,0,Laborers,2,10,80
+5009942,Kristy,Female,N,0,0,Y,1,5,2,8,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10710,29.34246575,5,-2351,6.44109589,5,1,1,0,0,0,0,0,0,Sales staff,4,8,70
+5009951,Jeff,Male,N,0,0,Y,1,5,0,10,90000,4,Pensioner,2,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-23083,63.24109589,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,59
+5009958,Jaclyn,Female,Y,1,5,Y,1,5,1,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16613,45.51506849,3,-3235,8.863013699,5,1,1,0,0,0,0,0,0,,3,8,73
+5009998,Jesus,Male,Y,1,5,Y,1,5,1,8,360000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-13940,38.19178082,4,-617,1.690410959,2,1,1,0,0,0,0,0,0,Managers,3,8,69
+6153778,Louis,Male,Y,1,5,Y,1,5,0,10,157500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23322,63.89589041,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,68
+5010007,Laurie,Female,N,0,0,Y,1,5,1,8,112500,6,State servant,10,Incomplete higher,6,Civil marriage,8,House / apartment,10,-10926,29.93424658,5,-3570,9.780821918,5,1,1,0,0,1,3,0,0,Secretaries,3,8,75
+5010009,Terri,Female,N,0,0,Y,1,5,1,8,112500,6,State servant,10,Incomplete higher,6,Civil marriage,8,House / apartment,10,-10926,29.93424658,5,-3570,9.780821918,5,1,1,0,0,1,3,0,0,Secretaries,3,8,75
+5010025,Sherry,Female,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20782,56.9369863,2,-2321,6.35890411,5,1,1,0,0,0,0,0,0,Laborers,2,10,71
+5010028,Deanna,Female,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20782,56.9369863,2,-2321,6.35890411,5,1,1,0,0,0,0,0,0,Laborers,2,10,71
+5010038,Meredith,Female,N,0,0,Y,1,5,0,10,292500,6,Pensioner,2,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-21582,59.12876712,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,61
+6153815,Makayla,Female,N,0,0,Y,1,5,0,10,292500,6,Pensioner,2,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-21582,59.12876712,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,61
+5010047,Erica,Female,N,0,0,Y,1,5,0,10,67500,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-21889,59.96986301,2,-8469,23.20273973,5,1,1,1,3,0,0,0,0,Core staff,2,10,72
+5010049,Judy,Female,N,0,0,Y,1,5,0,10,67500,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-21889,59.96986301,2,-8469,23.20273973,5,1,1,1,3,0,0,0,0,Core staff,2,10,72
+5010053,Nichole,Female,N,0,0,Y,1,5,0,10,90000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18474,50.61369863,2,-3021,8.276712329,5,1,1,0,0,0,0,1,3,Cleaning staff,2,10,72
+5010073,Jane,Female,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16757,45.90958904,3,-3508,9.610958904,5,1,1,0,0,0,0,0,0,Core staff,2,10,72
+5010078,Tom,Male,Y,1,5,N,0,0,2,8,157500,6,Working,8,Secondary / secondary special,4,Married,10,Municipal apartment,4,-12518,34.29589041,4,-1135,3.109589041,4,1,1,0,0,0,0,0,0,Cleaning staff,4,8,62
+5010101,Jodi,Female,Y,1,5,Y,1,5,2,8,306000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-13541,37.09863014,4,-3965,10.8630137,5,1,1,0,0,0,0,0,0,Core staff,4,8,80
+5010118,Gavin,Male,N,0,0,Y,1,5,0,10,180000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-8363,22.91232877,5,-525,1.438356164,2,1,1,0,0,0,0,0,0,,1,10,63
+5010126,Jenny,Female,N,0,0,Y,1,5,2,8,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12927,35.41643836,4,-2078,5.693150685,5,1,1,1,3,1,3,1,3,Managers,4,8,78
+5010138,Ronald,Male,Y,1,5,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23287,63.8,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,68
+5010143,Arthur,Male,Y,1,5,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23287,63.8,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,68
+6153714,Barry,Male,Y,1,5,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23287,63.8,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,68
+5010160,Randall,Male,Y,1,5,Y,1,5,0,10,252000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-22117,60.59452055,2,-1621,4.44109589,4,1,1,0,0,1,3,1,3,Security staff,2,10,81
+5010163,Chase,Male,Y,1,5,Y,1,5,0,10,252000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-22117,60.59452055,2,-1621,4.44109589,4,1,1,0,0,1,3,1,3,Security staff,2,10,81
+5010166,Maureen,Female,N,0,0,Y,1,5,0,10,135000,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-18501,50.68767123,2,-1866,5.112328767,5,1,1,0,0,0,0,0,0,Medicine staff,2,10,73
+5010170,Shelby,Female,N,0,0,Y,1,5,0,10,135000,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-18501,50.68767123,2,-1866,5.112328767,5,1,1,0,0,0,0,0,0,Medicine staff,2,10,73
+5010174,Phillip,Male,N,0,0,Y,1,5,0,10,90000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-8824,24.17534247,5,-739,2.024657534,2,1,1,0,0,0,0,1,3,Laborers,2,10,72
+5010176,Oscar,Male,Y,1,5,Y,1,5,2,8,225000,6,Commercial associate,6,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-18376,50.34520548,2,-4270,11.69863014,5,1,1,1,3,1,3,1,3,,4,8,77
+6153763,Theodore,Male,N,0,0,N,0,0,1,8,247500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-16797,46.01917808,3,-6583,18.03561644,5,1,1,0,0,1,3,0,0,Laborers,2,10,60
+6153769,Ebony,Female,N,0,0,Y,1,5,0,10,76500,4,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15602,42.74520548,3,-5061,13.86575342,5,1,1,0,0,1,3,0,0,Sales staff,2,10,71
+5010195,Keith,Male,N,0,0,Y,1,5,0,10,360000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18104,49.6,3,-1317,3.608219178,4,1,1,0,0,0,0,0,0,Drivers,2,10,71
+5010203,Kyle,Male,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Lower secondary,2,Married,10,With parents,6,-9981,27.34520548,5,-1866,5.112328767,5,1,1,0,0,0,0,1,3,Laborers,2,10,76
+5010206,Ray,Male,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Lower secondary,2,Married,10,With parents,6,-9981,27.34520548,5,-1866,5.112328767,5,1,1,0,0,0,0,1,3,Laborers,2,10,76
+5010217,Yesenia,Female,Y,1,5,Y,1,5,1,8,90000,4,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-17532,48.03287671,3,-8044,22.03835616,5,1,1,0,0,0,0,0,0,Medicine staff,3,8,73
+5010218,Mandy,Female,Y,1,5,Y,1,5,1,8,90000,4,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-17532,48.03287671,3,-8044,22.03835616,5,1,1,0,0,0,0,0,0,Medicine staff,3,8,73
+5010227,Ann,Female,Y,1,5,Y,1,5,1,8,90000,4,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-17532,48.03287671,3,-8044,22.03835616,5,1,1,0,0,0,0,0,0,Medicine staff,3,8,73
+5010239,Norman,Male,Y,1,5,Y,1,5,0,10,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16507,45.22465753,3,-4331,11.86575342,5,1,1,0,0,0,0,0,0,Drivers,2,10,77
+5010256,Ruth,Female,Y,1,5,Y,1,5,1,8,67500,4,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-14686,40.23561644,3,-3600,9.863013699,5,1,1,1,3,0,0,0,0,Cooking staff,3,8,72
+5010271,Johnathan,Male,N,0,0,Y,1,5,1,8,562500,8,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-13790,37.78082192,4,-5639,15.44931507,5,1,1,1,3,1,3,0,0,,3,8,79
+5010282,Juan,Male,N,0,0,Y,1,5,1,8,562500,8,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-13790,37.78082192,4,-5639,15.44931507,5,1,1,1,3,1,3,0,0,,3,8,79
+5010293,Jaime,Female,N,0,0,Y,1,5,0,10,99000,4,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-10016,27.44109589,5,-1164,3.189041096,4,1,1,1,3,0,0,0,0,Sales staff,1,10,66
+5010315,Madeline,Female,Y,1,5,Y,1,5,1,8,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15109,41.39452055,3,-1956,5.35890411,5,1,1,0,0,0,0,0,0,Core staff,3,8,71
+5010322,Gabriela,Female,N,0,0,N,0,0,0,10,216000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22867,62.64931507,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,58
+5010325,Bethany,Female,N,0,0,N,0,0,0,10,216000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22867,62.64931507,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,58
+5010329,Cassidy,Female,N,0,0,N,0,0,0,10,216000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22867,62.64931507,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,58
+5010344,Yolanda,Female,N,0,0,N,0,0,0,10,216000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22867,62.64931507,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,58
+5010352,Jonathan,Male,Y,1,5,N,0,0,1,8,180000,6,State servant,10,Incomplete higher,6,Married,10,With parents,6,-10591,29.01643836,5,-1195,3.273972603,4,1,1,0,0,0,0,0,0,Drivers,3,8,69
+5010360,Alexa,Female,N,0,0,Y,1,5,2,8,67500,4,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-14832,40.63561644,3,-7404,20.28493151,5,1,1,1,3,0,0,0,0,,3,8,63
+5010363,Marvin,Male,Y,1,5,N,0,0,0,10,90000,4,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-12383,33.9260274,4,-2017,5.526027397,5,1,1,1,3,1,3,0,0,Drivers,1,10,67
+5010369,Wanda,Female,Y,1,5,Y,1,5,1,8,157500,6,Working,8,Higher education,8,Separated,4,House / apartment,10,-9800,26.84931507,5,-2109,5.778082192,5,1,1,0,0,0,0,1,3,Medicine staff,2,10,78
+5010375,Tamara,Female,Y,1,5,Y,1,5,0,10,270000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23768,65.11780822,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,68
+5010416,Gary,Male,Y,1,5,N,0,0,1,8,270000,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-13425,36.78082192,4,-3143,8.610958904,5,1,1,0,0,0,0,0,0,Drivers,2,10,65
+5010449,Sheila,Female,N,0,0,Y,1,5,0,10,202500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22960,62.90410959,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,63
+5010460,Suzanne,Female,N,0,0,Y,1,5,0,10,171000,6,Student,4,Higher education,8,Married,10,House / apartment,10,-18756,51.38630137,2,-3904,10.69589041,5,1,1,0,0,0,0,1,3,Core staff,2,10,74
+5010472,Brett,Male,Y,1,5,Y,1,5,0,10,675000,8,State servant,10,Higher education,8,Married,10,House / apartment,10,-11912,32.63561644,4,-2200,6.02739726,5,1,1,0,0,0,0,0,0,High skill tech staff,2,10,86
+5010485,Bill,Male,Y,1,5,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-19987,54.75890411,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,68
+5010497,Tristan,Male,Y,1,5,Y,1,5,1,8,202500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10218,27.99452055,5,-313,0.857534247,1,1,1,1,3,0,0,0,0,,3,8,74
+5010503,Tasha,Female,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-17334,47.49041096,3,-2504,6.860273973,5,1,1,0,0,0,0,0,0,Sales staff,1,10,69
+5010509,Helen,Female,Y,1,5,Y,1,5,1,8,157500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-13830,37.89041096,4,-4239,11.61369863,5,1,1,0,0,0,0,0,0,Laborers,3,8,72
+5010519,Bob,Male,Y,1,5,Y,1,5,1,8,450000,6,Working,8,Higher education,8,Married,10,Office apartment,2,-18476,50.61917808,2,-2625,7.191780822,5,1,1,0,0,0,0,0,0,Managers,3,8,68
+5010530,Henry,Male,Y,1,5,Y,1,5,1,8,450000,6,Working,8,Higher education,8,Married,10,Office apartment,2,-18476,50.61917808,2,-2625,7.191780822,5,1,1,0,0,0,0,0,0,Managers,3,8,68
+5010553,Cindy,Female,Y,1,5,Y,1,5,0,10,315000,6,Commercial associate,6,Secondary / secondary special,4,Separated,4,House / apartment,10,-18184,49.81917808,3,-3021,8.276712329,5,1,1,0,0,1,3,1,3,Laborers,1,10,75
+5010556,Devon,Male,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15774,43.21643836,3,-2901,7.947945205,5,1,1,0,0,1,3,0,0,High skill tech staff,2,10,78
+5010558,Christian,Male,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15774,43.21643836,3,-2901,7.947945205,5,1,1,0,0,1,3,0,0,High skill tech staff,2,10,78
+6153747,Alexandria,Female,N,0,0,N,0,0,1,8,72000,4,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-14173,38.83013699,4,-1925,5.273972603,5,1,1,0,0,0,0,1,3,Accountants,3,8,67
+5090697,Shirley,Female,N,0,0,Y,1,5,1,8,247500,6,Commercial associate,6,Incomplete higher,6,Married,10,House / apartment,10,-10916,29.90684932,5,-921,2.523287671,2,1,1,0,0,0,0,0,0,Accountants,3,8,67
+5010620,Anne,Female,N,0,0,Y,1,5,0,10,103500,6,Pensioner,2,Incomplete higher,6,Married,10,House / apartment,10,-22254,60.96986301,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,68
+5010632,Claudia,Female,Y,1,5,Y,1,5,0,10,180000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-12461,34.13972603,4,-678,1.857534247,2,1,1,0,0,0,0,0,0,Sales staff,2,10,73
+5010637,Marie,Female,Y,1,5,Y,1,5,0,10,180000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-12461,34.13972603,4,-678,1.857534247,2,1,1,0,0,0,0,0,0,Sales staff,2,10,73
+5010643,Shelly,Female,N,0,0,N,0,0,0,10,180000,6,Pensioner,2,Secondary / secondary special,4,Married,10,Municipal apartment,4,-19263,52.77534247,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,55
+5010644,Gabriel,Male,N,0,0,Y,1,5,0,10,157500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-19096,52.31780822,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,63
+5010651,Micheal,Male,N,0,0,N,0,0,1,8,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-8843,24.22739726,5,-495,1.356164384,2,1,1,1,3,1,3,0,0,Laborers,3,8,68
+5010661,Steve,Male,Y,1,5,Y,1,5,2,8,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13360,36.60273973,4,-4086,11.19452055,5,1,1,0,0,0,0,0,0,Laborers,4,8,74
+5010667,Jerry,Male,Y,1,5,Y,1,5,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17158,47.00821918,3,-2990,8.191780822,5,1,1,0,0,0,0,0,0,Sales staff,2,10,77
+5010676,Andre,Male,Y,1,5,Y,1,5,0,10,189000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20815,57.02739726,2,-829,2.271232877,2,1,1,0,0,0,0,1,3,Security staff,2,10,76
+5010681,Gregg,Male,Y,1,5,Y,1,5,0,10,292500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-10297,28.2109589,5,-2231,6.112328767,5,1,1,0,0,0,0,0,0,Managers,2,10,83
+5010701,Joanne,Female,Y,1,5,Y,1,5,2,8,292500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-13958,38.24109589,4,-3021,8.276712329,5,1,1,0,0,0,0,0,0,Sales staff,4,8,76
+5010716,Christie,Female,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-21396,58.61917808,2,-1013,2.775342466,2,1,1,0,0,0,0,1,3,High skill tech staff,2,10,71
+5010725,Stefanie,Female,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-21396,58.61917808,2,-1013,2.775342466,2,1,1,0,0,0,0,1,3,High skill tech staff,2,10,71
+5010766,Chad,Male,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-11036,30.23561644,4,-4301,11.78356164,5,1,1,1,3,1,3,0,0,Laborers,1,10,71
+5010799,Bridget,Female,N,0,0,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Married,10,Municipal apartment,4,-15450,42.32876712,3,-770,2.109589041,2,1,1,0,0,0,0,1,3,Security staff,2,10,66
+5010821,Yvonne,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13095,35.87671233,4,-1652,4.526027397,4,1,1,0,0,0,0,0,0,High skill tech staff,2,10,77
+5010822,Cassandra,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13095,35.87671233,4,-1652,4.526027397,4,1,1,0,0,0,0,0,0,High skill tech staff,2,10,77
+5010828,Eileen,Female,Y,1,5,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13095,35.87671233,4,-1652,4.526027397,4,1,1,0,0,0,0,0,0,High skill tech staff,2,10,77
+5010891,Roberta,Female,N,0,0,Y,1,5,0,10,157500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23758,65.09041096,2,365243,1000.665753,3,1,1,0,0,0,0,1,3,,2,10,66
+5010893,Shelley,Female,N,0,0,Y,1,5,0,10,157500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23758,65.09041096,2,365243,1000.665753,3,1,1,0,0,0,0,1,3,,2,10,66
+5010897,Dwayne,Male,Y,1,5,Y,1,5,0,10,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-22720,62.24657534,2,-860,2.356164384,2,1,1,0,0,1,3,1,3,Low-skill Laborers,2,10,79
+5010916,Ricardo,Male,Y,1,5,Y,1,5,0,10,243000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-13533,37.07671233,4,-2535,6.945205479,5,1,1,0,0,1,3,0,0,Laborers,2,10,79
+5010929,Kaylee,Female,Y,1,5,Y,1,5,2,8,270000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-12745,34.91780822,4,-525,1.438356164,2,1,1,0,0,0,0,1,3,Core staff,4,8,72
+5010946,Lynn,Female,Y,1,5,Y,1,5,1,8,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-13768,37.72054795,4,-2565,7.02739726,5,1,1,0,0,0,0,0,0,Managers,3,8,72
+5010956,Noah,Male,Y,1,5,Y,1,5,0,10,337500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-14733,40.36438356,3,-1379,3.778082192,4,1,1,0,0,0,0,0,0,Sales staff,2,10,74
+5010960,Darren,Male,Y,1,5,Y,1,5,0,10,202500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-11505,31.52054795,4,-1043,2.857534247,2,1,1,0,0,0,0,1,3,Laborers,2,10,78
+5010989,Christy,Female,N,0,0,Y,1,5,0,10,121500,6,Commercial associate,6,Higher education,8,Single / not married,2,Rented apartment,8,-11118,30.46027397,4,-3873,10.6109589,5,1,1,1,3,0,0,0,0,Sales staff,1,10,68
+5011023,Trevor,Male,Y,1,5,Y,1,5,2,8,99000,4,State servant,10,Secondary / secondary special,4,Married,10,With parents,6,-16558,45.36438356,3,-3235,8.863013699,5,1,1,0,0,0,0,0,0,Drivers,4,8,69
+5011027,Joel,Male,Y,1,5,Y,1,5,2,8,99000,4,State servant,10,Secondary / secondary special,4,Married,10,With parents,6,-16558,45.36438356,3,-3235,8.863013699,5,1,1,0,0,0,0,0,0,Drivers,4,8,69
+6153820,Adriana,Female,N,0,0,Y,1,5,0,10,315000,6,Pensioner,2,Secondary / secondary special,4,Married,10,Municipal apartment,4,-20298,55.6109589,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,57
+5018447,Chloe,Female,N,0,0,Y,1,5,1,8,675000,8,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-15843,43.40547945,3,-1398,3.830136986,4,1,1,0,0,1,3,0,0,Sales staff,3,8,74
+5018469,Regina,Female,N,0,0,Y,1,5,1,8,166500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20208,55.36438356,2,-8033,22.00821918,5,1,1,0,0,1,3,0,0,,3,8,70
+5018471,Tami,Female,N,0,0,Y,1,5,1,8,166500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20208,55.36438356,2,-8033,22.00821918,5,1,1,0,0,1,3,0,0,,3,8,70
+5018477,Yvette,Female,Y,1,5,Y,1,5,0,10,292500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-19156,52.48219178,2,-4504,12.33972603,5,1,1,0,0,0,0,0,0,,2,10,80
+5018492,Roger,Male,Y,1,5,Y,1,5,1,8,675000,8,Working,8,Higher education,8,Married,10,House / apartment,10,-16338,44.76164384,3,-4654,12.75068493,5,1,1,1,3,1,3,0,0,Managers,3,8,85
+6736966,Brendan,Male,Y,1,5,Y,1,5,0,10,112500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15172,41.56712329,3,-2374,6.504109589,5,1,1,0,0,1,3,0,0,Sales staff,2,10,78
+6423589,Frederick,Male,Y,1,5,Y,1,5,1,8,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13621,37.31780822,4,-1127,3.087671233,4,1,1,0,0,0,0,0,0,Drivers,3,8,73
+5021219,Bruce,Male,Y,1,5,N,0,0,0,10,310500,6,Working,8,Higher education,8,Single / not married,2,House / apartment,10,-9930,27.20547945,5,-674,1.846575342,2,1,1,0,0,0,0,0,0,Laborers,1,10,67
+5021232,Gail,Female,N,0,0,Y,1,5,1,8,225000,6,Working,8,Higher education,8,Civil marriage,8,House / apartment,10,-10604,29.05205479,5,-2374,6.504109589,5,1,1,0,0,0,0,0,0,Sales staff,3,8,72
+5021260,Savannah,Female,N,0,0,Y,1,5,0,10,135000,6,Pensioner,2,Higher education,8,Married,10,House / apartment,10,-22747,62.32054795,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,67
+5021271,Raven,Female,Y,1,5,Y,1,5,1,8,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-14512,39.75890411,4,-4596,12.59178082,5,1,1,0,0,0,0,0,0,Laborers,3,8,74
+5021280,Jonathon,Male,Y,1,5,Y,1,5,0,10,110250,6,Working,8,Higher education,8,Single / not married,2,House / apartment,10,-14129,38.70958904,4,-5758,15.77534247,5,1,1,0,0,0,0,0,0,,1,10,74
+5021306,Carlos,Male,N,0,0,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16896,46.29041096,3,-248,0.679452055,1,1,1,0,0,0,0,0,0,Laborers,2,10,68
+5021318,Eduardo,Male,N,0,0,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16896,46.29041096,3,-248,0.679452055,1,1,1,0,0,0,0,0,0,Laborers,2,10,68
+5021319,Alex,Male,N,0,0,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16896,46.29041096,3,-248,0.679452055,1,1,1,0,0,0,0,0,0,Laborers,2,10,68
+5021323,Lawrence,Male,N,0,0,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16896,46.29041096,3,-248,0.679452055,1,1,1,0,0,0,0,0,0,Laborers,2,10,68
+5021342,Bradley,Male,Y,1,5,Y,1,5,3,8,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-15174,41.57260274,3,-582,1.594520548,2,1,1,0,0,0,0,0,0,,5,8,74
+5021353,Jack,Male,Y,1,5,N,0,0,0,10,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19972,54.71780822,2,-6610,18.10958904,5,1,1,0,0,0,0,0,0,Laborers,2,10,71
+5021366,Albert,Male,N,0,0,Y,1,5,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-18454,50.55890411,2,-7518,20.59726027,5,1,1,0,0,0,0,0,0,Drivers,2,10,69
+5021368,Kent,Male,N,0,0,Y,1,5,0,10,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-18454,50.55890411,2,-7518,20.59726027,5,1,1,0,0,0,0,0,0,Drivers,2,10,69
+5021386,Jillian,Female,N,0,0,Y,1,5,1,8,121500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-11007,30.15616438,4,-762,2.087671233,2,1,1,0,0,0,0,0,0,,3,8,70
+5021425,Chelsey,Female,Y,1,5,Y,1,5,0,10,225000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-21982,60.22465753,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,71
+5021431,Kelli,Female,N,0,0,Y,1,5,0,10,126000,6,Commercial associate,6,Higher education,8,Single / not married,2,House / apartment,10,-18907,51.8,2,-2470,6.767123288,5,1,1,0,0,0,0,0,0,Sales staff,1,10,65
+6423222,Mercedes,Female,N,0,0,Y,1,5,0,10,121500,6,Working,8,Secondary / secondary special,4,Married,10,With parents,6,-13315,36.47945205,4,-5204,14.25753425,5,1,1,1,3,1,3,0,0,Core staff,2,10,75
+5021467,Candace,Female,N,0,0,Y,1,5,0,10,90000,4,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-8378,22.95342466,5,-370,1.01369863,2,1,1,0,0,0,0,0,0,Core staff,2,10,67
+5021488,Howard,Male,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Civil marriage,8,With parents,6,-10665,29.21917808,5,-1493,4.090410959,4,1,1,0,0,0,0,0,0,Laborers,2,10,70
+5021500,Lucas,Male,Y,1,5,Y,1,5,4,8,292500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-14150,38.76712329,4,-401,1.098630137,2,1,1,0,0,0,0,0,0,Laborers,6,6,69
+5021541,Vickie,Female,Y,1,5,N,0,0,1,8,306000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-9310,25.50684932,5,-1678,4.597260274,4,1,1,0,0,0,0,0,0,,3,8,73
+5021563,Frank,Male,Y,1,5,Y,1,5,0,10,360000,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-9906,27.13972603,5,-122,0.334246575,1,1,1,1,3,1,3,0,0,Sales staff,2,10,83
+5021566,Krystal,Female,N,0,0,N,0,0,0,10,76500,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15097,41.36164384,3,-5027,13.77260274,5,1,1,0,0,0,0,0,0,,2,10,65
+5021589,Selena,Female,Y,1,5,Y,1,5,0,10,247500,6,Working,8,Incomplete higher,6,Separated,4,House / apartment,10,-19672,53.89589041,2,-1375,3.767123288,4,1,1,1,3,0,0,0,0,Accountants,1,10,74
+5021604,Glenda,Female,N,0,0,Y,1,5,0,10,225000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-19309,52.90136986,2,-2435,6.671232877,5,1,1,0,0,1,3,0,0,,2,10,80
+5021614,Jim,Male,Y,1,5,Y,1,5,1,8,189000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,Municipal apartment,4,-16893,46.28219178,3,-1521,4.167123288,4,1,1,0,0,0,0,0,0,Sales staff,3,8,64
+5021652,Dan,Male,Y,1,5,Y,1,5,1,8,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13207,36.18356164,4,-1401,3.838356164,4,1,1,0,0,0,0,0,0,Low-skill Laborers,3,8,73
+5021655,Pedro,Male,Y,1,5,Y,1,5,1,8,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13207,36.18356164,4,-1401,3.838356164,4,1,1,0,0,0,0,0,0,Low-skill Laborers,3,8,73
+5021661,Jeffery,Male,Y,1,5,Y,1,5,1,8,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13207,36.18356164,4,-1401,3.838356164,4,1,1,0,0,0,0,0,0,Low-skill Laborers,3,8,73
+5021663,Mike,Male,N,0,0,Y,1,5,1,8,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13788,37.77534247,4,-640,1.753424658,2,1,1,1,3,0,0,0,0,Laborers,3,8,69
+5021668,Carl,Male,N,0,0,Y,1,5,1,8,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13788,37.77534247,4,-640,1.753424658,2,1,1,1,3,0,0,0,0,Laborers,3,8,69
+5021683,Caleb,Male,N,0,0,Y,1,5,0,10,202500,6,Commercial associate,6,Secondary / secondary special,4,Separated,4,House / apartment,10,-18745,51.35616438,2,-3653,10.00821918,5,1,1,0,0,0,0,0,0,Cleaning staff,1,10,63
+5021684,Fred,Male,N,0,0,Y,1,5,0,10,202500,6,Commercial associate,6,Secondary / secondary special,4,Separated,4,House / apartment,10,-18745,51.35616438,2,-3653,10.00821918,5,1,1,0,0,0,0,0,0,Cleaning staff,1,10,63
+5021704,Shelia,Female,Y,1,5,Y,1,5,1,8,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15174,41.57260274,3,-3292,9.019178082,5,1,1,1,3,0,0,0,0,Sales staff,3,8,76
+5021725,Kiara,Female,Y,1,5,Y,1,5,1,8,630000,8,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17755,48.64383562,3,-401,1.098630137,2,1,1,0,0,0,0,0,0,,3,8,72
+5021745,Beth,Female,N,0,0,Y,1,5,1,8,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10406,28.50958904,5,-2774,7.6,5,1,1,0,0,0,0,1,3,Core staff,3,8,73
+5021837,Charlotte,Female,Y,1,5,Y,1,5,1,8,157500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-11938,32.70684932,4,-2162,5.923287671,5,1,1,0,0,0,0,0,0,Accountants,3,8,72
+5021846,Mallory,Female,N,0,0,Y,1,5,1,8,90000,4,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-8993,24.63835616,5,-152,0.416438356,1,1,1,1,3,0,0,0,0,Medicine staff,3,8,65
+5021855,Marisa,Female,N,0,0,Y,1,5,1,8,135000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,With parents,6,-10190,27.91780822,5,-279,0.764383562,1,1,1,0,0,0,0,0,0,,3,8,60
+5021878,Cory,Male,N,0,0,Y,1,5,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13534,37.07945205,4,-2557,7.005479452,5,1,1,0,0,0,0,0,0,Laborers,4,8,69
+5021880,Gerald,Male,Y,1,5,N,0,0,2,8,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13095,35.87671233,4,-217,0.594520548,1,1,1,0,0,1,3,0,0,Laborers,4,8,68
+5021892,Mia,Female,Y,1,5,Y,1,5,0,10,135000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-16949,46.43561644,3,-1371,3.756164384,4,1,1,0,0,0,0,0,0,Managers,2,10,78
+5021920,Frances,Female,Y,1,5,N,0,0,1,8,76500,4,Pensioner,2,Secondary / secondary special,4,Married,10,Municipal apartment,4,-21583,59.13150685,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,3,8,54
+5021943,Jade,Female,Y,1,5,Y,1,5,0,10,445500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12477,34.18356164,4,-456,1.249315068,2,1,1,0,0,0,0,0,0,Managers,2,10,77
+5021944,Kerri,Female,Y,1,5,Y,1,5,0,10,445500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-12477,34.18356164,4,-456,1.249315068,2,1,1,0,0,0,0,0,0,Managers,2,10,77
+5021974,Mikayla,Female,N,0,0,N,0,0,1,8,103500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-11720,32.10958904,4,-1191,3.263013699,4,1,1,0,0,0,0,0,0,Sales staff,3,8,63
+5113051,Alvin,Male,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-20102,55.0739726,2,-1039,2.846575342,2,1,1,0,0,0,0,0,0,Laborers,1,10,60
+5022024,Melvin,Male,Y,1,5,Y,1,5,0,10,112500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-9952,27.26575342,5,-1613,4.419178082,4,1,1,0,0,0,0,0,0,,1,10,70
+5022094,Lorraine,Female,N,0,0,Y,1,5,0,10,76500,4,Pensioner,2,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-22204,60.83287671,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,1,10,56
+5022122,Edwin,Male,N,0,0,Y,1,5,0,10,315000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19686,53.93424658,2,-1131,3.098630137,4,1,1,0,0,0,0,0,0,Laborers,2,10,70
+5022125,Tammie,Female,N,0,0,Y,1,5,0,10,135000,6,Commercial associate,6,Higher education,8,Civil marriage,8,House / apartment,10,-10091,27.64657534,5,-1525,4.178082192,4,1,1,0,0,0,0,1,3,,2,10,76
+5022126,Rachael,Female,N,0,0,Y,1,5,0,10,135000,6,Commercial associate,6,Higher education,8,Civil marriage,8,House / apartment,10,-10091,27.64657534,5,-1525,4.178082192,4,1,1,0,0,0,0,1,3,,2,10,76
+5022179,Angelica,Female,N,0,0,N,0,0,1,8,135000,6,Commercial associate,6,Secondary / secondary special,4,Separated,4,House / apartment,10,-15170,41.56164384,3,-7979,21.86027397,5,1,1,0,0,0,0,0,0,High skill tech staff,2,10,57
+5022216,Roberto,Male,N,0,0,Y,1,5,0,10,180000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-19161,52.49589041,2,-3347,9.169863014,5,1,1,1,3,1,3,0,0,Security staff,2,10,75
+5022229,Sherri,Female,N,0,0,Y,1,5,1,8,54000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15581,42.68767123,3,-187,0.512328767,1,1,1,0,0,0,0,0,0,,3,8,62
+5022256,Erika,Female,N,0,0,Y,1,5,0,10,202500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15231,41.72876712,3,-8375,22.94520548,5,1,1,0,0,0,0,1,3,High skill tech staff,2,10,75
+5022262,Joan,Female,N,0,0,Y,1,5,1,8,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15879,43.50410959,3,-1740,4.767123288,4,1,1,0,0,0,0,0,0,,3,8,67
+5022263,Manuel,Male,Y,1,5,Y,1,5,0,10,131400,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23646,64.78356164,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,68
+5022292,Dominique,Female,N,0,0,N,0,0,1,8,157500,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-15100,41.36986301,3,-3500,9.589041096,5,1,1,0,0,0,0,0,0,Cooking staff,3,8,61
+6423411,Kaitlin,Female,N,0,0,Y,1,5,0,10,90000,4,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-19042,52.16986301,2,-3319,9.093150685,5,1,1,0,0,0,0,0,0,,1,10,63
+5022332,Lance,Male,Y,1,5,Y,1,5,0,10,256500,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-21503,58.91232877,2,-1674,4.58630137,4,1,1,0,0,0,0,1,3,Core staff,2,10,80
+5022371,Rodney,Male,Y,1,5,N,0,0,0,10,270000,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-11172,30.60821918,4,-3504,9.6,5,1,1,0,0,0,0,0,0,Laborers,2,10,75
+5022451,Vicki,Female,N,0,0,N,0,0,0,10,315000,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-17570,48.1369863,3,-1978,5.419178082,5,1,1,0,0,0,0,1,3,Core staff,1,10,64
+5022550,Sally,Female,N,0,0,Y,1,5,0,10,247500,6,Commercial associate,6,Higher education,8,Single / not married,2,House / apartment,10,-11984,32.83287671,4,-2043,5.597260274,5,1,1,0,0,0,0,1,3,Core staff,1,10,70
+5022553,Kara,Female,N,0,0,Y,1,5,0,10,112500,6,Working,8,Higher education,8,Civil marriage,8,House / apartment,10,-11234,30.77808219,4,-2531,6.934246575,5,1,1,0,0,1,3,1,3,Sales staff,2,10,81
+5022573,Parker,Male,Y,1,5,Y,1,5,0,10,202500,6,Pensioner,2,Higher education,8,Married,10,House / apartment,10,-21721,59.50958904,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,72
+5022579,Preston,Male,N,0,0,Y,1,5,0,10,202500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-8533,23.37808219,5,-582,1.594520548,2,1,1,0,0,0,0,0,0,Laborers,1,10,63
+5022583,Summer,Female,N,0,0,Y,1,5,0,10,202500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-17803,48.77534247,3,-10079,27.61369863,5,1,1,0,0,1,3,0,0,Core staff,1,10,67
+5022585,Peggy,Female,N,0,0,Y,1,5,0,10,202500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-17803,48.77534247,3,-10079,27.61369863,5,1,1,0,0,1,3,0,0,Core staff,1,10,67
+5022587,Sylvia,Female,N,0,0,Y,1,5,0,10,202500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-17803,48.77534247,3,-10079,27.61369863,5,1,1,0,0,1,3,0,0,Core staff,1,10,67
+5022598,Phyllis,Female,N,0,0,Y,1,5,1,8,144000,6,Working,8,Higher education,8,Civil marriage,8,House / apartment,10,-13435,36.80821918,4,-122,0.334246575,1,1,1,1,3,1,3,1,3,Secretaries,3,8,76
+5022610,Stuart,Male,Y,1,5,Y,1,5,1,8,202500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10144,27.79178082,5,-825,2.260273973,2,1,1,0,0,0,0,0,0,Laborers,3,8,72
+5022618,Colton,Male,Y,1,5,Y,1,5,0,10,202500,6,Commercial associate,6,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-12022,32.9369863,4,-1674,4.58630137,4,1,1,0,0,0,0,1,3,Laborers,2,10,76
+5022640,Priscilla,Female,N,0,0,Y,1,5,1,8,76500,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-11185,30.64383562,4,-1405,3.849315068,4,1,1,0,0,0,0,1,3,Medicine staff,3,8,69
+6423374,Jon,Male,N,0,0,Y,1,5,0,10,112500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-17972,49.23835616,3,-1917,5.252054795,5,1,1,1,3,1,3,0,0,Sales staff,1,10,70
+5022663,Jeanette,Female,N,0,0,N,0,0,1,8,157500,6,Working,8,Secondary / secondary special,4,Single / not married,2,With parents,6,-14858,40.70684932,3,-1432,3.923287671,4,1,1,0,0,0,0,0,0,Cleaning staff,2,10,52
+5022692,Lindsay,Female,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Incomplete higher,6,Civil marriage,8,House / apartment,10,-10669,29.23013699,5,-3109,8.517808219,5,1,1,0,0,0,0,0,0,Laborers,2,10,79
+5022718,Rickey,Male,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-23406,64.1260274,2,-2617,7.169863014,5,1,1,0,0,0,0,0,0,Security staff,2,10,71
+5022719,Danny,Male,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-23406,64.1260274,2,-2617,7.169863014,5,1,1,0,0,0,0,0,0,Security staff,2,10,71
+5022751,Breanna,Female,N,0,0,N,0,0,1,8,202500,6,Commercial associate,6,Secondary / secondary special,4,Separated,4,House / apartment,10,-10800,29.5890411,5,-3166,8.673972603,5,1,1,0,0,0,0,0,0,Sales staff,2,10,59
+5022754,Patty,Female,N,0,0,N,0,0,1,8,202500,6,Commercial associate,6,Secondary / secondary special,4,Separated,4,House / apartment,10,-10800,29.5890411,5,-3166,8.673972603,5,1,1,0,0,0,0,0,0,Sales staff,2,10,59
+6423447,Mackenzie,Female,N,0,0,N,0,0,1,8,202500,6,Commercial associate,6,Secondary / secondary special,4,Separated,4,House / apartment,10,-10800,29.5890411,5,-3166,8.673972603,5,1,1,0,0,0,0,0,0,Sales staff,2,10,59
+5022816,Daisy,Female,N,0,0,Y,1,5,0,10,261000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-8477,23.22465753,5,-947,2.594520548,2,1,1,0,0,1,3,1,3,Laborers,1,10,67
+5022831,Warren,Male,Y,1,5,Y,1,5,0,10,202500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17262,47.29315068,3,-1617,4.430136986,4,1,1,0,0,0,0,0,0,Core staff,2,10,76
+5022837,Allen,Male,Y,1,5,Y,1,5,0,10,202500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17262,47.29315068,3,-1617,4.430136986,4,1,1,0,0,0,0,0,0,Core staff,2,10,76
+5022840,Collin,Male,N,0,0,Y,1,5,0,10,180000,6,Commercial associate,6,Secondary / secondary special,4,Separated,4,House / apartment,10,-12494,34.23013699,4,-978,2.679452055,2,1,1,0,0,0,0,0,0,Laborers,1,10,62
+5022881,Jay,Male,Y,1,5,Y,1,5,1,8,315000,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-16314,44.69589041,3,-882,2.416438356,2,1,1,0,0,0,0,0,0,Managers,2,10,66
+5022890,Neil,Male,Y,1,5,Y,1,5,1,8,315000,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-16314,44.69589041,3,-882,2.416438356,2,1,1,0,0,0,0,0,0,Managers,2,10,66
+5022934,Mason,Male,Y,1,5,Y,1,5,2,8,315000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-12615,34.56164384,4,-1156,3.167123288,4,1,1,0,0,0,0,0,0,Laborers,4,8,77
+5022947,Kari,Female,Y,1,5,N,0,0,0,10,202500,6,Commercial associate,6,Incomplete higher,6,Separated,4,House / apartment,10,-14096,38.61917808,4,-1344,3.682191781,4,1,1,0,0,1,3,1,3,Accountants,1,10,72
+5022975,Caitlyn,Female,N,0,0,Y,1,5,0,10,315000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-9436,25.85205479,5,-235,0.643835616,1,1,1,0,0,0,0,0,0,Sales staff,2,10,68
+5023035,Chris,Male,N,0,0,Y,1,5,0,10,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17810,48.79452055,3,-1727,4.731506849,4,1,1,1,3,0,0,0,0,Laborers,2,10,74
+5023059,Corey,Male,Y,1,5,Y,1,5,1,8,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-11279,30.90136986,4,-508,1.391780822,2,1,1,0,0,0,0,0,0,Laborers,3,8,71
+5023061,Autumn,Female,N,0,0,Y,1,5,0,10,202500,6,Commercial associate,6,Secondary / secondary special,4,Separated,4,House / apartment,10,-16806,46.04383562,3,-2670,7.315068493,5,1,1,0,0,0,0,0,0,Sales staff,1,10,64
+5023246,Herbert,Male,Y,1,5,Y,1,5,2,8,225000,6,Working,8,Secondary / secondary special,4,Married,10,Rented apartment,8,-12997,35.60821918,4,-5469,14.98356164,5,1,1,0,0,0,0,0,0,,4,8,72
+5023255,Darin,Male,N,0,0,Y,1,5,0,10,112500,6,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-20433,55.98082192,2,-2396,6.564383562,5,1,1,0,0,0,0,0,0,Drivers,1,10,65
+5023312,Vincent,Male,Y,1,5,N,0,0,1,8,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10502,28.77260274,5,-1878,5.145205479,5,1,1,0,0,0,0,0,0,Laborers,3,8,70
+6052088,Sheena,Female,N,0,0,Y,1,5,0,10,202500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-19177,52.53972603,2,-661,1.810958904,2,1,1,1,3,1,3,0,0,,2,10,78
+5023321,Loretta,Female,N,0,0,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13512,37.01917808,4,-4861,13.31780822,5,1,1,0,0,0,0,0,0,Laborers,2,10,68
+5023339,Sheryl,Female,N,0,0,Y,1,5,0,10,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-16911,46.33150685,3,-4253,11.65205479,5,1,1,0,0,0,0,1,3,Sales staff,2,10,73
+5023347,Brad,Male,Y,1,5,Y,1,5,0,10,900000,8,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18337,50.23835616,2,-1847,5.060273973,5,1,1,0,0,0,0,0,0,Managers,2,10,78
+5023355,Jimmy,Male,N,0,0,Y,1,5,0,10,180000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-10809,29.61369863,5,-2334,6.394520548,5,1,1,1,3,0,0,0,0,,1,10,69
+5023361,Jerome,Male,N,0,0,Y,1,5,0,10,180000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-10809,29.61369863,5,-2334,6.394520548,5,1,1,1,3,0,0,0,0,,1,10,69
+5023409,Katelyn,Female,N,0,0,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-21642,59.29315068,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,63
+5023430,Bianca,Female,N,0,0,Y,1,5,0,10,108000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23044,63.13424658,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,66
+6052012,Kirsten,Female,N,0,0,N,0,0,1,8,63000,4,Working,8,Secondary / secondary special,4,Single / not married,2,Municipal apartment,4,-16817,46.0739726,3,-4618,12.65205479,5,1,1,0,0,0,0,0,0,Cleaning staff,2,10,49
+5023523,Francis,Male,Y,1,5,Y,1,5,0,10,180000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15516,42.50958904,3,-1301,3.564383562,4,1,1,0,0,0,0,0,0,Laborers,2,10,74
+5023527,Isabel,Female,N,0,0,Y,1,5,0,10,274500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-20459,56.05205479,2,-6930,18.98630137,5,1,1,0,0,0,0,0,0,High skill tech staff,2,10,69
+5023550,Wayne,Male,Y,1,5,Y,1,5,0,10,90900,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-21700,59.45205479,2,-2426,6.646575342,5,1,1,0,0,0,0,0,0,Laborers,2,10,74
+5023567,Marc,Male,Y,1,5,Y,1,5,3,8,270000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-12323,33.76164384,4,-1117,3.060273973,4,1,1,0,0,1,3,0,0,Laborers,5,8,74
+5023615,Julian,Male,Y,1,5,Y,1,5,0,10,202500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-17585,48.17808219,3,-235,0.643835616,1,1,1,0,0,0,0,0,0,Drivers,2,10,71
+5023623,Cassie,Female,N,0,0,N,0,0,2,8,180000,6,Commercial associate,6,Incomplete higher,6,Married,10,House / apartment,10,-13803,37.81643836,4,-3249,8.901369863,5,1,1,0,0,1,3,0,0,Sales staff,4,8,67
+5023638,Antonio,Male,N,0,0,Y,1,5,1,8,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12272,33.62191781,4,-2212,6.060273973,5,1,1,1,3,0,0,0,0,Laborers,3,8,72
+5023664,Kristopher,Male,N,0,0,Y,1,5,2,8,99000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-14226,38.97534247,4,-1026,2.810958904,2,1,1,1,3,1,3,0,0,Laborers,4,8,70
+5023683,Alisha,Female,N,0,0,Y,1,5,1,8,67500,4,Commercial associate,6,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-11084,30.36712329,4,-1086,2.975342466,2,1,1,1,3,1,3,0,0,Sales staff,3,8,66
+5023739,Aimee,Female,N,0,0,Y,1,5,0,10,90000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18975,51.98630137,2,-751,2.057534247,2,1,1,1,3,1,3,0,0,Core staff,2,10,72
+5023753,Dominic,Male,Y,1,5,N,0,0,0,10,157500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-11454,31.38082192,4,-1604,4.394520548,4,1,1,0,0,0,0,0,0,Drivers,2,10,70
+6790268,Beverly,Female,Y,1,5,Y,1,5,0,10,180000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-22379,61.31232877,2,-3178,8.706849315,5,1,1,0,0,0,0,0,0,,2,10,74
+5023834,Guy,Male,N,0,0,N,0,0,1,8,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13892,38.06027397,4,-1929,5.284931507,5,1,1,0,0,0,0,0,0,High skill tech staff,3,8,64
+5794717,Isabella,Female,Y,1,5,Y,1,5,0,10,450000,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-19737,54.0739726,2,-5359,14.68219178,5,1,1,0,0,0,0,0,0,,2,10,82
+5023920,Dean,Male,Y,1,5,N,0,0,1,8,225000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-16173,44.30958904,3,-2862,7.84109589,5,1,1,0,0,0,0,0,0,Managers,3,8,66
+5023921,Harold,Male,Y,1,5,N,0,0,1,8,225000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-16173,44.30958904,3,-2862,7.84109589,5,1,1,0,0,0,0,0,0,Managers,3,8,66
+5024058,Hayley,Female,N,0,0,Y,1,5,1,8,108000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13012,35.64931507,4,-1342,3.676712329,4,1,1,0,0,1,3,0,0,Sales staff,3,8,71
+5024073,Gabrielle,Female,N,0,0,Y,1,5,0,10,180000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-15976,43.76986301,3,-854,2.339726027,2,1,1,0,0,0,0,0,0,Laborers,2,10,73
+5024135,Leonard,Male,Y,1,5,N,0,0,0,10,202500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-8655,23.71232877,5,-1067,2.923287671,2,1,1,0,0,1,3,1,3,Core staff,2,10,77
+5024203,Hailey,Female,N,0,0,Y,1,5,0,10,202500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-16278,44.59726027,3,-2712,7.430136986,5,1,1,1,3,1,3,0,0,,1,10,70
+5024222,Kristie,Female,Y,1,5,Y,1,5,0,10,540000,8,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-15702,43.01917808,3,-185,0.506849315,1,1,1,0,0,1,3,0,0,,2,10,80
+5024363,Hunter,Male,N,0,0,Y,1,5,1,8,81000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12313,33.73424658,4,-1098,3.008219178,4,1,1,0,0,0,0,0,0,Laborers,3,8,66
+5024489,Geoffrey,Male,N,0,0,Y,1,5,0,10,171000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-21717,59.49863014,2,-2042,5.594520548,5,1,1,0,0,0,0,0,0,Drivers,2,10,71
+5024491,Levi,Male,N,0,0,Y,1,5,1,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,Rented apartment,8,-10414,28.53150685,5,-2742,7.512328767,5,1,1,1,3,1,3,0,0,Laborers,3,8,74
+5024552,Darryl,Male,N,0,0,Y,1,5,0,10,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-14071,38.55068493,4,-3806,10.42739726,5,1,1,1,3,0,0,0,0,Laborers,2,10,76
+5024588,Andres,Male,Y,1,5,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,With parents,6,-8893,24.36438356,5,-1615,4.424657534,4,1,1,1,3,0,0,0,0,Drivers,2,10,77
+5024619,Billy,Male,Y,1,5,Y,1,5,0,10,180000,6,Pensioner,2,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-23289,63.80547945,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,69
+5024622,Bernard,Male,N,0,0,Y,1,5,2,8,270000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-11505,31.52054795,4,-4019,11.0109589,5,1,1,0,0,0,0,0,0,Laborers,3,8,61
+5024626,Colin,Male,N,0,0,Y,1,5,2,8,270000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-11505,31.52054795,4,-4019,11.0109589,5,1,1,0,0,0,0,0,0,Laborers,3,8,61
+5024737,Miguel,Male,Y,1,5,Y,1,5,1,8,405000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-16510,45.23287671,3,-731,2.002739726,2,1,1,0,0,0,0,0,0,,3,8,68
+5024744,Jeremiah,Male,N,0,0,Y,1,5,0,10,225000,6,Commercial associate,6,Higher education,8,Single / not married,2,House / apartment,10,-14195,38.89041096,4,-6881,18.85205479,5,1,1,0,0,0,0,0,0,Laborers,1,10,67
+5024787,Tracie,Female,N,0,0,Y,1,5,0,10,225000,6,Pensioner,2,Higher education,8,Married,10,House / apartment,10,-23868,65.39178082,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,67
+5024791,Ellen,Female,N,0,0,Y,1,5,0,10,225000,6,Pensioner,2,Higher education,8,Married,10,House / apartment,10,-23868,65.39178082,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,67
+5024806,Connor,Male,N,0,0,N,0,0,1,8,112500,6,Working,8,Secondary / secondary special,4,Separated,4,With parents,6,-15390,42.16438356,3,-1615,4.424657534,4,1,1,0,0,0,0,0,0,Laborers,2,10,54
+5024848,Jasmin,Female,N,0,0,Y,1,5,0,10,157500,6,Working,8,Higher education,8,Single / not married,2,House / apartment,10,-11511,31.5369863,4,-519,1.421917808,2,1,1,0,0,0,0,0,0,High skill tech staff,1,10,66
+5024878,Latasha,Female,N,0,0,Y,1,5,0,10,112500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22175,60.75342466,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,63
+5024909,Ralph,Male,Y,1,5,Y,1,5,0,10,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20463,56.0630137,2,-185,0.506849315,1,1,1,0,0,0,0,0,0,Security staff,2,10,72
+6389106,Robyn,Female,Y,1,5,N,0,0,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-8717,23.88219178,5,-1857,5.087671233,5,1,1,1,3,0,0,0,0,Core staff,4,8,73
+6389110,Monique,Female,Y,1,5,N,0,0,2,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-8717,23.88219178,5,-1857,5.087671233,5,1,1,1,3,0,0,0,0,Core staff,4,8,73
+5024918,Glen,Male,N,0,0,Y,1,5,2,8,225000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-14841,40.66027397,3,-3868,10.59726027,5,1,1,0,0,0,0,0,0,Managers,4,8,72
+5872349,Kerry,Female,N,0,0,N,0,0,0,10,135000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-20013,54.83013699,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,58
+5872387,Sophia,Female,Y,1,5,N,0,0,0,10,90000,4,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-18652,51.10136986,2,-5633,15.43287671,5,1,1,0,0,1,3,0,0,Laborers,2,10,70
+5872655,Damon,Male,Y,1,5,Y,1,5,2,8,531000,8,State servant,10,Higher education,8,Married,10,House / apartment,10,-15173,41.56986301,3,-7916,21.68767123,5,1,1,0,0,0,0,0,0,Managers,4,8,81
+5581561,Lacey,Female,N,0,0,N,0,0,0,10,90000,4,Working,8,Secondary / secondary special,4,Married,10,With parents,6,-16174,44.31232877,3,-277,0.75890411,1,1,1,0,0,0,0,0,0,Sales staff,2,10,57
+5581608,Riley,Male,Y,1,5,N,0,0,1,8,450000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16912,46.33424658,3,-2072,5.676712329,5,1,1,0,0,0,0,0,0,Laborers,3,8,68
+5581633,Ernest,Male,Y,1,5,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Single / not married,2,Municipal apartment,4,-14284,39.13424658,4,-2192,6.005479452,5,1,1,0,0,0,0,0,0,Drivers,1,10,64
+5580933,Daryl,Male,Y,1,5,N,0,0,0,10,1125000,10,Commercial associate,6,Secondary / secondary special,4,Married,10,Rented apartment,8,-15960,43.7260274,3,-1646,4.509589041,4,1,1,0,0,0,0,0,0,Managers,2,10,71
+6289934,Harry,Male,N,0,0,Y,1,5,0,10,135000,6,Pensioner,2,Higher education,8,Married,10,House / apartment,10,-23321,63.89315068,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,67
+5581308,Omar,Male,Y,1,5,Y,1,5,0,10,135000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-20947,57.3890411,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,71
+5025683,Tricia,Female,Y,1,5,N,0,0,1,8,135000,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-14599,39.99726027,4,-2108,5.775342466,5,1,1,1,3,1,3,0,0,Medicine staff,3,8,77
+5026123,Nicolas,Male,Y,1,5,Y,1,5,0,10,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-16277,44.59452055,3,-6979,19.12054795,5,1,1,0,0,0,0,0,0,High skill tech staff,2,10,77
+5026525,Sue,Female,N,0,0,Y,1,5,0,10,126000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-16092,44.08767123,3,-438,1.2,2,1,1,0,0,0,0,0,0,Cleaning staff,2,10,67
+5026528,Faith,Female,Y,1,5,Y,1,5,0,10,99000,4,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-22256,60.97534247,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,66
+5026629,Sonia,Female,N,0,0,Y,1,5,0,10,99000,4,Working,8,Secondary / secondary special,4,Separated,4,House / apartment,10,-18068,49.50136986,3,-8870,24.30136986,5,1,1,0,0,0,0,0,0,Medicine staff,1,10,64
+5028285,Jackie,Female,N,0,0,N,0,0,1,8,157500,6,Commercial associate,6,Incomplete higher,6,Married,10,With parents,6,-11941,32.71506849,4,-2760,7.561643836,5,1,1,0,0,0,0,0,0,,3,8,60
+5028307,Darius,Male,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-11888,32.56986301,4,-295,0.808219178,1,1,1,0,0,0,0,0,0,Security staff,2,10,60
+5028363,Bailey,Female,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-18230,49.94520548,3,-173,0.473972603,1,1,1,0,0,0,0,0,0,Medicine staff,1,10,60
+5028561,Lydia,Female,Y,1,5,Y,1,5,0,10,315000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15653,42.88493151,3,-5500,15.06849315,5,1,1,0,0,0,0,1,3,Core staff,2,10,78
+5028785,Ariana,Female,N,0,0,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15836,43.38630137,3,-3034,8.312328767,5,1,1,0,0,0,0,0,0,,2,10,72
+5028827,Bobby,Male,N,0,0,Y,1,5,0,10,171000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19338,52.98082192,2,-1695,4.643835616,4,1,1,0,0,0,0,0,0,Drivers,2,10,70
+5028832,Jermaine,Male,N,0,0,Y,1,5,0,10,202500,6,Working,8,Higher education,8,Married,10,House / apartment,10,-14944,40.94246575,3,-2060,5.643835616,5,1,1,0,0,0,0,0,0,Managers,2,10,76
+5703015,Terrence,Male,Y,1,5,N,0,0,0,10,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-14834,40.64109589,3,-3813,10.44657534,5,1,1,0,0,1,3,0,0,Sales staff,2,10,75
+6670006,Kylie,Female,N,0,0,Y,1,5,0,10,117000,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-20768,56.89863014,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,63
+6139185,Norma,Female,N,0,0,Y,1,5,2,8,135000,6,Commercial associate,6,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-13346,36.56438356,4,-585,1.602739726,2,1,1,0,0,1,3,1,3,Laborers,4,8,68
+5029232,Perry,Male,N,0,0,Y,1,5,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19408,53.17260274,2,-4553,12.4739726,5,1,1,0,0,1,3,0,0,Laborers,2,10,74
+5029312,Pam,Female,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15488,42.43287671,3,-2453,6.720547945,5,1,1,0,0,0,0,0,0,Laborers,2,10,72
+5029665,Ariel,Female,N,0,0,N,0,0,0,10,67500,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-18401,50.41369863,2,-2149,5.887671233,5,1,1,0,0,0,0,0,0,Laborers,2,10,64
+5471214,Gwendolyn,Female,Y,1,5,N,0,0,1,8,135000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-13033,35.70684932,4,-3885,10.64383562,5,1,1,0,0,1,3,0,0,Laborers,3,8,70
+5033472,Tanner,Male,N,0,0,N,0,0,0,10,247500,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-11977,32.81369863,4,-2699,7.394520548,5,1,1,0,0,0,0,0,0,Core staff,2,10,70
+6195820,Claire,Female,N,0,0,N,0,0,0,10,112500,6,Working,8,Higher education,8,Married,10,With parents,6,-10650,29.17808219,5,-3702,10.14246575,5,1,1,1,3,1,3,0,0,Core staff,2,10,75
+5471089,Alejandro,Male,Y,1,5,N,0,0,0,10,180000,6,Commercial associate,6,Higher education,8,Married,10,House / apartment,10,-10054,27.54520548,5,-598,1.638356164,2,1,1,0,0,1,3,0,0,Managers,2,10,76
+6196253,Gilbert,Male,N,0,0,N,0,0,0,10,157500,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-17018,46.62465753,3,-9485,25.98630137,5,1,1,0,0,1,3,0,0,Drivers,2,10,68
+6196276,Alejandra,Female,N,0,0,N,0,0,1,8,99000,4,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-15096,41.35890411,3,-994,2.723287671,2,1,1,1,3,0,0,0,0,Laborers,3,8,59
+5033606,Kurt,Male,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Widow,6,House / apartment,10,-17587,48.18356164,3,-1571,4.304109589,4,1,1,0,0,0,0,0,0,Laborers,1,10,67
+6045611,Rose,Female,N,0,0,N,0,0,0,10,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-13605,37.2739726,4,-1329,3.64109589,4,1,1,0,0,0,0,0,0,Core staff,2,10,67
+5836624,Jake,Male,Y,1,5,Y,1,5,2,8,450000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-12040,32.98630137,4,-1305,3.575342466,4,1,1,1,3,1,3,0,0,,4,8,83
+5405022,Ross,Male,N,0,0,Y,1,5,0,10,65250,4,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23289,63.80547945,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,61
+5033706,Clarence,Male,Y,1,5,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17349,47.53150685,3,-536,1.468493151,2,1,1,0,0,0,0,0,0,Drivers,2,10,69
+5033724,Max,Male,N,0,0,Y,1,5,0,10,135000,6,Pensioner,2,Lower secondary,2,Married,10,House / apartment,10,-24202,66.30684932,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,61
+5033758,Franklin,Male,Y,1,5,Y,1,5,1,8,72000,4,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-15670,42.93150685,3,-239,0.654794521,1,1,1,0,0,0,0,0,0,,2,10,59
+5033778,Clayton,Male,N,0,0,Y,1,5,0,10,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20298,55.6109589,2,-3282,8.991780822,5,1,1,0,0,0,0,0,0,Medicine staff,2,10,71
+5033857,Reginald,Male,Y,1,5,N,0,0,1,8,270000,6,Commercial associate,6,Higher education,8,Married,10,Municipal apartment,4,-12928,35.41917808,4,-239,0.654794521,1,1,1,0,0,1,3,0,0,Managers,3,8,64
+5905306,Leroy,Male,Y,1,5,Y,1,5,0,10,90000,4,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-20063,54.96712329,2,-932,2.553424658,2,1,1,1,3,1,3,0,0,Core staff,2,10,77
+5905827,Dale,Male,Y,1,5,Y,1,5,1,8,135000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-11066,30.31780822,4,-1670,4.575342466,4,1,1,0,0,1,3,0,0,Laborers,3,8,76
+6820522,Mindy,Female,N,0,0,Y,1,5,0,10,270000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-21917,60.04657534,2,-1905,5.219178082,5,1,1,0,0,0,0,0,0,Medicine staff,2,10,71
+6820670,Hector,Male,Y,1,5,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10097,27.6630137,5,-1571,4.304109589,4,1,1,1,3,1,3,0,0,Drivers,2,10,84
+5409355,Alec,Male,Y,1,5,Y,1,5,1,8,256500,6,State servant,10,Higher education,8,Married,10,Office apartment,2,-11154,30.55890411,4,-4409,12.07945205,5,1,1,0,0,0,0,0,0,Core staff,3,8,72
+5035480,Vernon,Male,Y,1,5,Y,1,5,1,8,225000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-13334,36.53150685,4,-4908,13.44657534,5,1,1,0,0,0,0,0,0,Core staff,3,8,78
+5036462,Isaac,Male,Y,1,5,Y,1,5,2,8,180000,6,State servant,10,Higher education,8,Married,10,Co-op apartment,9,-11457,31.3890411,4,-1669,4.57260274,4,1,1,0,0,0,0,0,0,,4,8,78
+5036492,Bryce,Male,Y,1,5,N,0,0,1,8,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12266,33.60547945,4,-3372,9.238356164,5,1,1,0,0,0,0,0,0,Drivers,3,8,69
+5438689,Marcia,Female,N,0,0,N,0,0,0,10,135000,6,Pensioner,2,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-21870,59.91780822,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,1,10,50
+6345485,Duane,Male,Y,1,5,N,0,0,0,10,225000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-13022,35.67671233,4,-1570,4.301369863,4,1,1,1,3,0,0,0,0,,2,10,79
+6583753,Jackson,Male,Y,1,5,N,0,0,1,8,225000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-16737,45.85479452,3,-2410,6.602739726,5,1,1,0,0,0,0,0,0,Managers,3,8,66
+5036908,Brady,Male,Y,1,5,Y,1,5,1,8,270000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-17187,47.08767123,3,-4327,11.85479452,5,1,1,0,0,0,0,0,0,Managers,3,8,77
+5146576,Leon,Male,Y,1,5,Y,1,5,0,10,135000,6,Working,8,Secondary / secondary special,4,Married,10,With parents,6,-16271,44.57808219,3,-3111,8.523287671,5,1,1,0,0,0,0,0,0,Core staff,2,10,73
+5037109,Garrett,Male,N,0,0,N,0,0,0,10,202500,6,Working,8,Secondary / secondary special,4,Married,10,Municipal apartment,4,-18281,50.08493151,2,-3596,9.852054795,5,1,1,0,0,0,0,0,0,Laborers,2,10,60
+5146187,Wyatt,Male,N,0,0,N,0,0,0,10,202500,6,Working,8,Secondary / secondary special,4,Married,10,Municipal apartment,4,-18281,50.08493151,2,-3596,9.852054795,5,1,1,0,0,0,0,0,0,Laborers,2,10,60
+5228786,Clifford,Male,Y,1,5,Y,1,5,1,8,225000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-12985,35.57534247,4,-858,2.350684932,2,1,1,0,0,1,3,0,0,Sales staff,3,8,74
+5427132,Earl,Male,N,0,0,N,0,0,0,10,225000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-9386,25.71506849,5,-512,1.402739726,2,1,1,0,0,1,3,0,0,Laborers,1,10,61
+5038624,Angie,Female,N,0,0,N,0,0,0,10,103500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-24346,66.70136986,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,58
+5044749,Fernando,Male,N,0,0,N,0,0,0,10,144000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-16621,45.5369863,3,-221,0.605479452,1,1,1,0,0,0,0,0,0,,2,10,61
+5045438,Karl,Male,Y,1,5,Y,1,5,0,10,180000,6,Pensioner,2,Higher education,8,Married,10,House / apartment,10,-23546,64.50958904,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,2,10,72
+5046233,Dave,Male,Y,1,5,Y,1,5,0,10,112500,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-10475,28.69863014,5,-2757,7.553424658,5,1,1,1,3,1,3,1,3,Drivers,1,10,80
+5046443,Ivan,Male,Y,1,5,Y,1,5,0,10,157500,6,State servant,10,Higher education,8,Married,10,House / apartment,10,-16783,45.98082192,3,-473,1.295890411,2,1,1,0,0,1,3,0,0,Core staff,2,10,83
+5048168,Kellie,Female,Y,1,5,Y,1,5,0,10,121500,6,Pensioner,2,Secondary / secondary special,4,Married,10,House / apartment,10,-23683,64.88493151,2,365243,1000.665753,3,1,1,0,0,1,3,0,0,,2,10,71
+5050529,Cesar,Male,N,0,0,N,0,0,0,10,180000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-10304,28.23013699,5,-743,2.035616438,2,1,1,0,0,1,3,0,0,Laborers,2,10,67
+5050753,Kirk,Male,Y,1,5,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Civil marriage,8,House / apartment,10,-20043,54.91232877,2,-682,1.868493151,2,1,1,1,3,1,3,0,0,Laborers,2,10,72
+5053289,Alfred,Male,N,0,0,Y,1,5,0,10,148500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-11963,32.77534247,4,-3246,8.893150685,5,1,1,0,0,0,0,0,0,Laborers,2,10,73
+5053387,Maxwell,Male,Y,1,5,Y,1,5,2,8,247500,6,Working,8,Incomplete higher,6,Married,10,House / apartment,10,-13102,35.89589041,4,-962,2.635616438,2,1,1,0,0,0,0,0,0,Drivers,4,8,73
+5053426,Karla,Female,Y,1,5,Y,1,5,2,8,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-15692,42.99178082,3,-3649,9.997260274,5,1,1,0,0,0,0,0,0,Managers,4,8,73
+5053536,Zoe,Female,N,0,0,Y,1,5,0,10,216000,6,Pensioner,2,Higher education,8,Single / not married,2,House / apartment,10,-20388,55.85753425,2,365243,1000.665753,3,1,1,0,0,0,0,0,0,,1,10,59
+5053590,Drew,Male,Y,1,5,Y,1,5,0,10,405000,6,Working,8,Higher education,8,Married,10,House / apartment,10,-10772,29.51232877,5,-546,1.495890411,2,1,1,0,0,0,0,0,0,Managers,2,10,80
+5062676,Marco,Male,N,0,0,Y,1,5,0,10,180000,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-19500,53.42465753,2,-3189,8.736986301,5,1,1,0,0,0,0,0,0,Laborers,2,10,71
+5067705,Hayden,Male,N,0,0,Y,1,5,1,8,112500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-10145,27.79452055,5,-1126,3.084931507,4,1,1,0,0,0,0,0,0,Laborers,3,8,69
+5068232,Cristian,Male,N,0,0,Y,1,5,1,8,112500,6,State servant,10,Secondary / secondary special,4,Married,10,House / apartment,10,-13885,38.04109589,4,-232,0.635616438,1,1,1,0,0,0,0,0,0,Laborers,3,8,67
+5079212,Don,Male,N,0,0,Y,1,5,0,10,157500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17474,47.8739726,3,-1152,3.156164384,4,1,1,0,0,0,0,0,0,Laborers,2,10,71
+5738406,Gordon,Male,N,0,0,Y,1,5,1,8,243000,6,Commercial associate,6,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-13345,36.56164384,4,-5276,14.45479452,5,1,1,1,3,0,0,0,0,Laborers,2,10,64
+5089304,Lonnie,Male,N,0,0,N,0,0,0,10,193500,6,Working,8,Secondary / secondary special,4,Married,10,House / apartment,10,-17257,47.27945205,3,-886,2.42739726,2,1,1,0,0,0,0,0,0,Security staff,2,10,64
+5092172,Terrance,Male,Y,1,5,N,0,0,2,8,315000,6,Commercial associate,6,Incomplete higher,6,Married,10,House / apartment,10,-11080,30.35616438,4,-657,1.8,2,1,1,0,0,0,0,0,0,Managers,4,8,66
+5146345,Malik,Male,N,0,0,N,0,0,0,10,135000,6,Working,8,Secondary / secondary special,4,Single / not married,2,House / apartment,10,-9275,25.4109589,5,-493,1.350684932,2,1,1,0,0,0,0,0,0,Laborers,1,10,58
+5189739,Gene,Male,Y,1,5,Y,1,5,1,8,225000,6,Commercial associate,6,Secondary / secondary special,4,Married,10,House / apartment,10,-12631,34.60547945,4,-153,0.419178082,1,1,1,0,0,0,0,0,0,Laborers,3,8,68
